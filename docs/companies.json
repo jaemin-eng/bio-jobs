@@ -1,19 +1,20 @@
 {
-"updated": "2026-09-19T19:19:27+00:00",
+"updated": "2026-09-19T20:21:25+00:00",
 "companies": [
 {
 "name": "Xaira Therapeutics",
 "group": "AI·단백질설계",
-"status": "fail",
-"via": "",
-"source": "",
-"count": 0,
-"error": "채용 시스템을 찾지 못함",
-"seconds": 4,
-"in_metro": 0,
-"other_locations": [],
-"listed": 1,
-"link": "https://xaira.com/careers/"
+"status": "ok",
+"via": "greenhouse",
+"source": "xairatherapeutics",
+"count": 5,
+"seconds": 0,
+"in_metro": 4,
+"other_locations": [
+"Seattle, Washington"
+],
+"listed": 4,
+"link": "https://job-boards.greenhouse.io/xairatherapeutics"
 },
 {
 "name": "Generate Biomedicines",
@@ -31,16 +32,15 @@
 {
 "name": "Insitro",
 "group": "AI·단백질설계",
-"status": "fail",
-"via": "",
-"source": "",
+"status": "ok",
+"via": "ashby",
+"source": "insitro",
 "count": 0,
-"error": "채용 시스템을 찾지 못함",
-"seconds": 1,
+"seconds": 0,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
-"link": "https://insitro.com/careers"
+"link": "https://jobs.ashbyhq.com/insitro"
 },
 {
 "name": "Genesis Therapeutics",
@@ -58,16 +58,15 @@
 {
 "name": "Profluent Bio",
 "group": "AI·단백질설계",
-"status": "fail",
-"via": "",
-"source": "",
-"count": 0,
-"error": "채용 시스템을 찾지 못함",
+"status": "ok",
+"via": "greenhouse",
+"source": "profluent",
+"count": 2,
 "seconds": 0,
-"in_metro": 0,
+"in_metro": 2,
 "other_locations": [],
-"listed": 0,
-"link": "https://www.profluent.bio/careers"
+"listed": 2,
+"link": "https://job-boards.greenhouse.io/profluent"
 },
 {
 "name": "Nabla Bio",
@@ -77,11 +76,11 @@
 "source": "",
 "count": 0,
 "error": "채용 시스템을 찾지 못함",
-"seconds": 0,
+"seconds": 1,
 "in_metro": 0,
 "other_locations": [],
 "listed": 1,
-"link": "https://www.nabla.bio/careers"
+"link": "https://jobs.gem.com/nabla-bio"
 },
 {
 "name": "BigHat Biosciences",
@@ -95,7 +94,7 @@
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
-"link": "https://www.bighatbio.com/careers"
+"link": "https://bighatbiosciences.pinpointhq.com/"
 },
 {
 "name": "Chai Discovery",
@@ -119,7 +118,7 @@
 "via": "",
 "source": "",
 "count": 0,
-"error": "채용 시스템을 찾지 못함",
+"error": "greenhouse: Greenhouse HTTP 404",
 "seconds": 0,
 "in_metro": 0,
 "other_locations": [],
@@ -161,7 +160,7 @@
 "via": "",
 "source": "",
 "count": 0,
-"error": "채용 시스템을 찾지 못함",
+"error": "greenhouse: Greenhouse HTTP 404",
 "seconds": 2,
 "in_metro": 0,
 "other_locations": [],
@@ -196,21 +195,22 @@
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
-"link": "https://terraytx.com/careers/"
+"link": "https://ats.rippling.com/terraytx"
 },
 {
 "name": "Schrodinger",
 "group": "AI·단백질설계",
-"status": "fail",
-"via": "",
-"source": "",
-"count": 0,
-"error": "채용 시스템을 찾지 못함",
-"seconds": 1,
+"status": "ok",
+"via": "greenhouse",
+"source": "schrdinger",
+"count": 1,
+"seconds": 0,
 "in_metro": 0,
-"other_locations": [],
+"other_locations": [
+"Framingham; New York"
+],
 "listed": 1,
-"link": "https://www.schrodinger.com/careers/"
+"link": "https://job-boards.greenhouse.io/schrdinger"
 },
 {
 "name": "Recursion",
@@ -257,16 +257,15 @@
 {
 "name": "Octant Bio",
 "group": "AI·단백질설계",
-"status": "fail",
-"via": "",
-"source": "",
-"count": 0,
-"error": "채용 시스템을 찾지 못함",
-"seconds": 6,
-"in_metro": 0,
+"status": "ok",
+"via": "greenhouse",
+"source": "octantbio",
+"count": 1,
+"seconds": 0,
+"in_metro": 1,
 "other_locations": [],
 "listed": 1,
-"link": "https://www.octant.bio/careers"
+"link": "https://job-boards.greenhouse.io/octantbio"
 },
 {
 "name": "Tessera Therapeutics",
@@ -288,7 +287,7 @@
 "via": "phenom",
 "source": "https://careers.gene.com/us/en",
 "count": 21,
-"seconds": 361,
+"seconds": 358,
 "in_metro": 21,
 "other_locations": [],
 "listed": 21,
@@ -297,30 +296,28 @@
 {
 "name": "Moderna",
 "group": "바이오텍·제약",
-"status": "fail",
-"via": "",
-"source": "",
-"count": 0,
-"error": "채용 시스템을 찾지 못함",
-"seconds": 3,
-"in_metro": 0,
+"status": "ok",
+"via": "workday",
+"source": "https://modernatx.wd1.myworkdayjobs.com/M_tx",
+"count": 1,
+"seconds": 19,
+"in_metro": 1,
 "other_locations": [],
-"listed": 1,
-"link": "https://www.modernatx.com/careers/open-positions"
+"listed": 2,
+"link": "https://modernatx.wd1.myworkdayjobs.com/M_tx"
 },
 {
 "name": "Vertex Pharmaceuticals",
 "group": "바이오텍·제약",
-"status": "fail",
-"via": "",
-"source": "",
+"status": "ok",
+"via": "workday",
+"source": "https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers",
 "count": 0,
-"error": "채용 시스템을 찾지 못함",
-"seconds": 3,
+"seconds": 16,
 "in_metro": 0,
 "other_locations": [],
 "listed": 2,
-"link": "https://www.vrtx.com/careers/"
+"link": "https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers"
 },
 {
 "name": "Biogen",
@@ -329,7 +326,7 @@
 "via": "workday",
 "source": "https://biibhr.wd3.myworkdayjobs.com/external",
 "count": 0,
-"seconds": 17,
+"seconds": 16,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
@@ -338,16 +335,15 @@
 {
 "name": "Novartis Biomedical Research",
 "group": "바이오텍·제약",
-"status": "fail",
-"via": "",
-"source": "",
+"status": "ok",
+"via": "workday",
+"source": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers",
 "count": 0,
-"error": "채용 시스템을 찾지 못함",
-"seconds": 3,
+"seconds": 18,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
-"link": "https://www.novartis.com/careers/career-search"
+"link": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers"
 },
 {
 "name": "Takeda",
@@ -357,7 +353,7 @@
 "source": "",
 "count": 0,
 "error": "radancy: Radancy 결과 0건 (형식 확인 필요)",
-"seconds": 21,
+"seconds": 20,
 "in_metro": 0,
 "other_locations": [],
 "listed": 3,
@@ -384,7 +380,7 @@
 "via": "workday",
 "source": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS",
 "count": 0,
-"seconds": 16,
+"seconds": 18,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
@@ -397,7 +393,7 @@
 "via": "workday",
 "source": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers",
 "count": 0,
-"seconds": 16,
+"seconds": 18,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
@@ -462,16 +458,18 @@
 {
 "name": "Sanofi",
 "group": "바이오텍·제약",
-"status": "fail",
-"via": "",
-"source": "",
-"count": 0,
-"error": "채용 시스템을 찾지 못함",
-"seconds": 0,
+"status": "ok",
+"via": "workday",
+"source": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers",
+"count": 2,
+"seconds": 18,
 "in_metro": 0,
-"other_locations": [],
+"other_locations": [
+"Frankfurt am Main",
+"Suzhou (Jiangsu)"
+],
 "listed": 1,
-"link": "https://en.jobs.sanofi.com/"
+"link": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers"
 },
 {
 "name": "Johnson & Johnson",
@@ -480,7 +478,7 @@
 "via": "workday",
 "source": "https://jj.wd5.myworkdayjobs.com/JJ",
 "count": 0,
-"seconds": 19,
+"seconds": 21,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
@@ -489,30 +487,28 @@
 {
 "name": "Relay Therapeutics",
 "group": "바이오텍·제약",
-"status": "fail",
-"via": "",
-"source": "",
+"status": "ok",
+"via": "greenhouse",
+"source": "relaytherapeutics",
 "count": 0,
-"error": "채용 시스템을 찾지 못함",
-"seconds": 3,
+"seconds": 0,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
-"link": "https://relaytx.com/careers/"
+"link": "https://job-boards.greenhouse.io/relaytherapeutics"
 },
 {
 "name": "Nimbus Therapeutics",
 "group": "바이오텍·제약",
-"status": "fail",
-"via": "",
-"source": "",
+"status": "ok",
+"via": "greenhouse",
+"source": "nimbustherapeutics",
 "count": 0,
-"error": "채용 시스템을 찾지 못함",
-"seconds": 3,
+"seconds": 0,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
-"link": "https://www.nimbustx.com/careers/"
+"link": "https://job-boards.greenhouse.io/nimbustherapeutics"
 },
 {
 "name": "Monte Rosa Therapeutics",
@@ -531,16 +527,15 @@
 {
 "name": "Treeline Biosciences",
 "group": "바이오텍·제약",
-"status": "fail",
-"via": "",
-"source": "",
+"status": "ok",
+"via": "greenhouse",
+"source": "treelinebiosciences",
 "count": 0,
-"error": "채용 시스템을 찾지 못함",
-"seconds": 2,
+"seconds": 0,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
-"link": "https://treelinebio.com/careers/"
+"link": "https://job-boards.greenhouse.io/treelinebiosciences"
 },
 {
 "name": "Denali Therapeutics",
@@ -549,8 +544,8 @@
 "via": "",
 "source": "",
 "count": 0,
-"error": "채용 시스템을 찾지 못함",
-"seconds": 3,
+"error": "workday: Workday 결과 0건 (사이트 이름 확인 필요)",
+"seconds": 21,
 "in_metro": 0,
 "other_locations": [],
 "listed": 1,
@@ -602,7 +597,7 @@
 "via": "workday",
 "source": "https://illumina.wd1.myworkdayjobs.com/illumina-careers",
 "count": 0,
-"seconds": 19,
+"seconds": 17,
 "in_metro": 0,
 "other_locations": [],
 "listed": 2,
@@ -611,16 +606,15 @@
 {
 "name": "Neurocrine Biosciences",
 "group": "바이오텍·제약",
-"status": "fail",
-"via": "",
-"source": "",
+"status": "ok",
+"via": "workday",
+"source": "https://neurocrine.wd5.myworkdayjobs.com/Neurocrinecareers",
 "count": 0,
-"error": "채용 시스템을 찾지 못함",
-"seconds": 3,
+"seconds": 16,
 "in_metro": 0,
 "other_locations": [],
 "listed": 1,
-"link": "https://www.neurocrine.com/careers/"
+"link": "https://neurocrine.wd5.myworkdayjobs.com/Neurocrinecareers"
 },
 {
 "name": "Crinetics Pharmaceuticals",
@@ -630,7 +624,7 @@
 "source": "",
 "count": 0,
 "error": "workday: Workday 결과 0건 (사이트 이름 확인 필요)",
-"seconds": 21,
+"seconds": 18,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
@@ -644,11 +638,11 @@
 "source": "",
 "count": 0,
 "error": "채용 시스템을 찾지 못함",
-"seconds": 6,
+"seconds": 5,
 "in_metro": 0,
 "other_locations": [],
 "listed": 1,
-"link": "https://www.vividion.com/careers/"
+"link": "https://vividion.com/careers/"
 },
 {
 "name": "MacroGenics",
@@ -658,11 +652,11 @@
 "source": "",
 "count": 0,
 "error": "채용 시스템을 찾지 못함",
-"seconds": 1,
+"seconds": 4,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
-"link": "https://macrogenics.com/careers/"
+"link": "https://recruiting.ultipro.com/MAC1011MGEN/JobBoard/89a052a3-e089-4f02-bcf1-3175048463c9/"
 },
 {
 "name": "Arcellx",
@@ -671,7 +665,7 @@
 "via": "",
 "source": "",
 "count": 0,
-"error": "채용 시스템을 찾지 못함",
+"error": "greenhouse: Greenhouse HTTP 404",
 "seconds": 4,
 "in_metro": 0,
 "other_locations": [],
@@ -686,7 +680,7 @@
 "source": "",
 "count": 0,
 "error": "workday: Workday HTTP 422",
-"seconds": 5,
+"seconds": 4,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
@@ -700,11 +694,11 @@
 "source": "",
 "count": 0,
 "error": "채용 시스템을 찾지 못함",
-"seconds": 3,
+"seconds": 1,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
-"link": "https://www.broadinstitute.org/careers"
+"link": "https://broadinstitute.avature.net/careers"
 },
 {
 "name": "Arc Institute",
@@ -742,11 +736,11 @@
 "source": "",
 "count": 0,
 "error": "채용 시스템을 찾지 못함",
-"seconds": 0,
+"seconds": 2,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
-"link": "https://wi.mit.edu/careers"
+"link": "https://wi.mit.edu/about/jobs"
 },
 {
 "name": "Dana-Farber Cancer Institute",
@@ -755,7 +749,7 @@
 "via": "workday",
 "source": "https://danafarber.wd5.myworkdayjobs.com/dana-farber",
 "count": 1,
-"seconds": 18,
+"seconds": 17,
 "in_metro": 0,
 "other_locations": [
 "Boston Job Posting Location"
@@ -771,24 +765,23 @@
 "source": "",
 "count": 0,
 "error": "채용 시스템을 찾지 못함",
-"seconds": 6,
+"seconds": 5,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
-"link": "https://careers.mit.edu/"
+"link": "https://careers.peopleclick.com/careerscp/client_mit/external/search.do"
 },
 {
 "name": "Harvard University",
 "group": "연구소·대학",
-"status": "fail",
-"via": "",
-"source": "",
-"count": 0,
-"error": "채용 시스템을 찾지 못함",
-"seconds": 2,
-"in_metro": 0,
+"status": "ok",
+"via": "smartrecruiters",
+"source": "HarvardUniversity",
+"count": 2,
+"seconds": 1,
+"in_metro": 2,
 "other_locations": [],
-"listed": 0,
+"listed": 2,
 "link": "https://hr.harvard.edu/search-jobs"
 },
 {
@@ -799,7 +792,7 @@
 "source": "",
 "count": 0,
 "error": "채용 시스템을 찾지 못함",
-"seconds": 3,
+"seconds": 1,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
@@ -817,7 +810,7 @@
 "in_metro": 0,
 "other_locations": [],
 "listed": 1,
-"link": "https://ucsf.wd5.myworkdayjobs.com/UCSF_Jobs"
+"link": "https://careers.ucsf.edu/careers/SearchJobs"
 },
 {
 "name": "UC San Diego",
@@ -827,11 +820,11 @@
 "source": "",
 "count": 0,
 "error": "채용 시스템을 찾지 못함",
-"seconds": 6,
+"seconds": 5,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
-"link": "https://employment.ucsd.edu/"
+"link": "https://employment.ucsd.edu/jobs"
 },
 {
 "name": "UC Berkeley",
@@ -845,7 +838,7 @@
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
-"link": "https://jobs.berkeley.edu/"
+"link": "https://jobs.berkeley.edu/job-listings/external-applicants"
 },
 {
 "name": "Lawrence Berkeley National Laboratory",
@@ -882,11 +875,11 @@
 "source": "",
 "count": 0,
 "error": "채용 시스템을 찾지 못함",
-"seconds": 3,
+"seconds": 1,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
-"link": "https://www.scripps.edu/careers/"
+"link": "https://recruiting2.ultipro.com/SCR1003TSRI/JobBoard/98759e7d-7ede-4c0b-ac7b-2c6293c7b522/"
 },
 {
 "name": "Salk Institute",
@@ -900,7 +893,7 @@
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
-"link": "https://www.salk.edu/careers/"
+"link": "https://recruiting2.ultipro.com/SAL1013SIBS/JobBoard/e9f055e1-a105-4f91-9a67-21aea61655fa"
 },
 {
 "name": "Sanford Burnham Prebys",
@@ -910,7 +903,7 @@
 "source": "",
 "count": 0,
 "error": "채용 시스템을 찾지 못함",
-"seconds": 6,
+"seconds": 5,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
@@ -924,7 +917,7 @@
 "source": "",
 "count": 0,
 "error": "채용 시스템을 찾지 못함",
-"seconds": 7,
+"seconds": 5,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
@@ -938,11 +931,11 @@
 "source": "",
 "count": 0,
 "error": "채용 시스템을 찾지 못함",
-"seconds": 2,
+"seconds": 3,
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
-"link": "https://jobs.jhu.edu/"
+"link": "https://hiring.jhu.edu/careers"
 },
 {
 "name": "University of Maryland",
@@ -969,7 +962,7 @@
 "in_metro": 0,
 "other_locations": [],
 "listed": 0,
-"link": "https://frederick.cancer.gov/careers"
+"link": "https://leidosbiomed.csodfed.com/ux/ats/careersite/4/home?c=leidosbiomed"
 }
 ]
 }

@@ -249,7 +249,23 @@
   "directorclinicalbioinformatics|illumina|sandiego": "2026-09-19",
   "Adzuna:5890645471": "2026-09-19",
   "Adzuna:5885798384": "2026-09-19",
-  "aimlengineerdrugdiscoverycontractor|vividionther|sandiego": "2026-09-19"
+  "aimlengineerdrugdiscoverycontractor|vividionther|sandiego": "2026-09-19",
+  "aiscientistbiomedicalai|xairatherape|sfbayarea": "2026-09-19",
+  "회사:Xaira Therapeutics:4987432007": "2026-09-19",
+  "aiscientistbiomedicalmultimodalmodeling|xairatherape|sfbayarea": "2026-09-19",
+  "회사:Xaira Therapeutics:5036777007": "2026-09-19",
+  "회사:Xaira Therapeutics:5194626007": "2026-09-19",
+  "scientistiiantibodydiscoveryphagedisplay|xairatherape|sfbayarea": "2026-09-19",
+  "leadscientistassociatedirectorbioinformaticsanddatascience|profluentbio|sfbayarea": "2026-09-19",
+  "회사:Profluent Bio:4983485008": "2026-09-19",
+  "machinelearningscientistbioml|profluentbio|sfbayarea": "2026-09-19",
+  "회사:Profluent Bio:5248524008": "2026-09-19",
+  "principalscientistcomputationalproteindesign|moderna|boston": "2026-09-19",
+  "회사:Moderna:/job/Cambridge-Massachusetts/Principal-Scientist--Computational-Protein-Design_R19575": "2026-09-19",
+  "회사:Harvard University:3743990014766326": "2026-09-19",
+  "datascientistcomputationalbiologist|harvardunive|boston": "2026-09-19",
+  "bioinformaticssoftwareengineer|harvardunive|boston": "2026-09-19",
+  "회사:Harvard University:3743990011801881": "2026-09-19"
  },
  "jsearch_last_run": "2026-09-19T05:41:51.781871+00:00",
  "jsearch_turn": 1,
@@ -338,20 +354,63 @@
   },
   "Eli Lilly": {
    "phenom": "https://careers.lilly.com/us/en"
+  },
+  "Insitro": {
+   "ashby": "insitro"
+  },
+  "Profluent Bio": {
+   "greenhouse": "profluent"
+  },
+  "Xaira Therapeutics": {
+   "greenhouse": "xairatherapeutics"
+  },
+  "Schrodinger": {
+   "greenhouse": "schrdinger"
+  },
+  "Octant Bio": {
+   "greenhouse": "octantbio"
+  },
+  "Vertex Pharmaceuticals": {
+   "workday": "https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers"
+  },
+  "Moderna": {
+   "workday": "https://modernatx.wd1.myworkdayjobs.com/M_tx"
+  },
+  "Novartis Biomedical Research": {
+   "workday": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers"
+  },
+  "Relay Therapeutics": {
+   "greenhouse": "relaytherapeutics"
+  },
+  "Nimbus Therapeutics": {
+   "greenhouse": "nimbustherapeutics"
+  },
+  "Treeline Biosciences": {
+   "greenhouse": "treelinebiosciences"
+  },
+  "Sanofi": {
+   "workday": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers"
+  },
+  "Neurocrine Biosciences": {
+   "workday": "https://neurocrine.wd5.myworkdayjobs.com/Neurocrinecareers"
+  },
+  "Harvard University": {
+   "smartrecruiters": "HarvardUniversity"
   }
  },
  "company_status": [
   {
    "name": "Xaira Therapeutics",
    "group": "AI·단백질설계",
-   "status": "fail",
-   "via": "",
-   "source": "",
-   "count": 0,
-   "error": "채용 시스템을 찾지 못함",
-   "seconds": 4,
-   "in_metro": 0,
-   "other_locations": []
+   "status": "ok",
+   "via": "greenhouse",
+   "source": "xairatherapeutics",
+   "count": 5,
+   "seconds": 0,
+   "in_metro": 4,
+   "other_locations": [
+    "Seattle, Washington"
+   ]
   },
   {
    "name": "Generate Biomedicines",
@@ -367,12 +426,11 @@
   {
    "name": "Insitro",
    "group": "AI·단백질설계",
-   "status": "fail",
-   "via": "",
-   "source": "",
+   "status": "ok",
+   "via": "ashby",
+   "source": "insitro",
    "count": 0,
-   "error": "채용 시스템을 찾지 못함",
-   "seconds": 1,
+   "seconds": 0,
    "in_metro": 0,
    "other_locations": []
   },
@@ -390,13 +448,12 @@
   {
    "name": "Profluent Bio",
    "group": "AI·단백질설계",
-   "status": "fail",
-   "via": "",
-   "source": "",
-   "count": 0,
-   "error": "채용 시스템을 찾지 못함",
+   "status": "ok",
+   "via": "greenhouse",
+   "source": "profluent",
+   "count": 2,
    "seconds": 0,
-   "in_metro": 0,
+   "in_metro": 2,
    "other_locations": []
   },
   {
@@ -407,7 +464,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 0,
+   "seconds": 1,
    "in_metro": 0,
    "other_locations": []
   },
@@ -443,7 +500,7 @@
    "via": "",
    "source": "",
    "count": 0,
-   "error": "채용 시스템을 찾지 못함",
+   "error": "greenhouse: Greenhouse HTTP 404",
    "seconds": 0,
    "in_metro": 0,
    "other_locations": []
@@ -479,7 +536,7 @@
    "via": "",
    "source": "",
    "count": 0,
-   "error": "채용 시스템을 찾지 못함",
+   "error": "greenhouse: Greenhouse HTTP 404",
    "seconds": 2,
    "in_metro": 0,
    "other_locations": []
@@ -513,14 +570,15 @@
   {
    "name": "Schrodinger",
    "group": "AI·단백질설계",
-   "status": "fail",
-   "via": "",
-   "source": "",
-   "count": 0,
-   "error": "채용 시스템을 찾지 못함",
-   "seconds": 1,
+   "status": "ok",
+   "via": "greenhouse",
+   "source": "schrdinger",
+   "count": 1,
+   "seconds": 0,
    "in_metro": 0,
-   "other_locations": []
+   "other_locations": [
+    "Framingham; New York"
+   ]
   },
   {
    "name": "Recursion",
@@ -561,13 +619,12 @@
   {
    "name": "Octant Bio",
    "group": "AI·단백질설계",
-   "status": "fail",
-   "via": "",
-   "source": "",
-   "count": 0,
-   "error": "채용 시스템을 찾지 못함",
-   "seconds": 6,
-   "in_metro": 0,
+   "status": "ok",
+   "via": "greenhouse",
+   "source": "octantbio",
+   "count": 1,
+   "seconds": 0,
+   "in_metro": 1,
    "other_locations": []
   },
   {
@@ -588,31 +645,29 @@
    "via": "phenom",
    "source": "https://careers.gene.com/us/en",
    "count": 21,
-   "seconds": 361,
+   "seconds": 358,
    "in_metro": 21,
    "other_locations": []
   },
   {
    "name": "Moderna",
    "group": "바이오텍·제약",
-   "status": "fail",
-   "via": "",
-   "source": "",
-   "count": 0,
-   "error": "채용 시스템을 찾지 못함",
-   "seconds": 3,
-   "in_metro": 0,
+   "status": "ok",
+   "via": "workday",
+   "source": "https://modernatx.wd1.myworkdayjobs.com/M_tx",
+   "count": 1,
+   "seconds": 19,
+   "in_metro": 1,
    "other_locations": []
   },
   {
    "name": "Vertex Pharmaceuticals",
    "group": "바이오텍·제약",
-   "status": "fail",
-   "via": "",
-   "source": "",
+   "status": "ok",
+   "via": "workday",
+   "source": "https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers",
    "count": 0,
-   "error": "채용 시스템을 찾지 못함",
-   "seconds": 3,
+   "seconds": 16,
    "in_metro": 0,
    "other_locations": []
   },
@@ -623,19 +678,18 @@
    "via": "workday",
    "source": "https://biibhr.wd3.myworkdayjobs.com/external",
    "count": 0,
-   "seconds": 17,
+   "seconds": 16,
    "in_metro": 0,
    "other_locations": []
   },
   {
    "name": "Novartis Biomedical Research",
    "group": "바이오텍·제약",
-   "status": "fail",
-   "via": "",
-   "source": "",
+   "status": "ok",
+   "via": "workday",
+   "source": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers",
    "count": 0,
-   "error": "채용 시스템을 찾지 못함",
-   "seconds": 3,
+   "seconds": 18,
    "in_metro": 0,
    "other_locations": []
   },
@@ -647,7 +701,7 @@
    "source": "",
    "count": 0,
    "error": "radancy: Radancy 결과 0건 (형식 확인 필요)",
-   "seconds": 21,
+   "seconds": 20,
    "in_metro": 0,
    "other_locations": []
   },
@@ -670,7 +724,7 @@
    "via": "workday",
    "source": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS",
    "count": 0,
-   "seconds": 16,
+   "seconds": 18,
    "in_metro": 0,
    "other_locations": []
   },
@@ -681,7 +735,7 @@
    "via": "workday",
    "source": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers",
    "count": 0,
-   "seconds": 16,
+   "seconds": 18,
    "in_metro": 0,
    "other_locations": []
   },
@@ -736,14 +790,16 @@
   {
    "name": "Sanofi",
    "group": "바이오텍·제약",
-   "status": "fail",
-   "via": "",
-   "source": "",
-   "count": 0,
-   "error": "채용 시스템을 찾지 못함",
-   "seconds": 0,
+   "status": "ok",
+   "via": "workday",
+   "source": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers",
+   "count": 2,
+   "seconds": 18,
    "in_metro": 0,
-   "other_locations": []
+   "other_locations": [
+    "Frankfurt am Main",
+    "Suzhou (Jiangsu)"
+   ]
   },
   {
    "name": "Johnson & Johnson",
@@ -752,31 +808,29 @@
    "via": "workday",
    "source": "https://jj.wd5.myworkdayjobs.com/JJ",
    "count": 0,
-   "seconds": 19,
+   "seconds": 21,
    "in_metro": 0,
    "other_locations": []
   },
   {
    "name": "Relay Therapeutics",
    "group": "바이오텍·제약",
-   "status": "fail",
-   "via": "",
-   "source": "",
+   "status": "ok",
+   "via": "greenhouse",
+   "source": "relaytherapeutics",
    "count": 0,
-   "error": "채용 시스템을 찾지 못함",
-   "seconds": 3,
+   "seconds": 0,
    "in_metro": 0,
    "other_locations": []
   },
   {
    "name": "Nimbus Therapeutics",
    "group": "바이오텍·제약",
-   "status": "fail",
-   "via": "",
-   "source": "",
+   "status": "ok",
+   "via": "greenhouse",
+   "source": "nimbustherapeutics",
    "count": 0,
-   "error": "채용 시스템을 찾지 못함",
-   "seconds": 3,
+   "seconds": 0,
    "in_metro": 0,
    "other_locations": []
   },
@@ -795,12 +849,11 @@
   {
    "name": "Treeline Biosciences",
    "group": "바이오텍·제약",
-   "status": "fail",
-   "via": "",
-   "source": "",
+   "status": "ok",
+   "via": "greenhouse",
+   "source": "treelinebiosciences",
    "count": 0,
-   "error": "채용 시스템을 찾지 못함",
-   "seconds": 2,
+   "seconds": 0,
    "in_metro": 0,
    "other_locations": []
   },
@@ -811,8 +864,8 @@
    "via": "",
    "source": "",
    "count": 0,
-   "error": "채용 시스템을 찾지 못함",
-   "seconds": 3,
+   "error": "workday: Workday 결과 0건 (사이트 이름 확인 필요)",
+   "seconds": 21,
    "in_metro": 0,
    "other_locations": []
   },
@@ -856,19 +909,18 @@
    "via": "workday",
    "source": "https://illumina.wd1.myworkdayjobs.com/illumina-careers",
    "count": 0,
-   "seconds": 19,
+   "seconds": 17,
    "in_metro": 0,
    "other_locations": []
   },
   {
    "name": "Neurocrine Biosciences",
    "group": "바이오텍·제약",
-   "status": "fail",
-   "via": "",
-   "source": "",
+   "status": "ok",
+   "via": "workday",
+   "source": "https://neurocrine.wd5.myworkdayjobs.com/Neurocrinecareers",
    "count": 0,
-   "error": "채용 시스템을 찾지 못함",
-   "seconds": 3,
+   "seconds": 16,
    "in_metro": 0,
    "other_locations": []
   },
@@ -880,7 +932,7 @@
    "source": "",
    "count": 0,
    "error": "workday: Workday 결과 0건 (사이트 이름 확인 필요)",
-   "seconds": 21,
+   "seconds": 18,
    "in_metro": 0,
    "other_locations": []
   },
@@ -892,7 +944,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 6,
+   "seconds": 5,
    "in_metro": 0,
    "other_locations": []
   },
@@ -904,7 +956,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 1,
+   "seconds": 4,
    "in_metro": 0,
    "other_locations": []
   },
@@ -915,7 +967,7 @@
    "via": "",
    "source": "",
    "count": 0,
-   "error": "채용 시스템을 찾지 못함",
+   "error": "greenhouse: Greenhouse HTTP 404",
    "seconds": 4,
    "in_metro": 0,
    "other_locations": []
@@ -928,7 +980,7 @@
    "source": "",
    "count": 0,
    "error": "workday: Workday HTTP 422",
-   "seconds": 5,
+   "seconds": 4,
    "in_metro": 0,
    "other_locations": []
   },
@@ -940,7 +992,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 3,
+   "seconds": 1,
    "in_metro": 0,
    "other_locations": []
   },
@@ -976,7 +1028,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 0,
+   "seconds": 2,
    "in_metro": 0,
    "other_locations": []
   },
@@ -987,7 +1039,7 @@
    "via": "workday",
    "source": "https://danafarber.wd5.myworkdayjobs.com/dana-farber",
    "count": 1,
-   "seconds": 18,
+   "seconds": 17,
    "in_metro": 0,
    "other_locations": [
     "Boston Job Posting Location"
@@ -1001,20 +1053,19 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 6,
+   "seconds": 5,
    "in_metro": 0,
    "other_locations": []
   },
   {
    "name": "Harvard University",
    "group": "연구소·대학",
-   "status": "fail",
-   "via": "",
-   "source": "",
-   "count": 0,
-   "error": "채용 시스템을 찾지 못함",
-   "seconds": 2,
-   "in_metro": 0,
+   "status": "ok",
+   "via": "smartrecruiters",
+   "source": "HarvardUniversity",
+   "count": 2,
+   "seconds": 1,
+   "in_metro": 2,
    "other_locations": []
   },
   {
@@ -1025,7 +1076,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 3,
+   "seconds": 1,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1049,7 +1100,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 6,
+   "seconds": 5,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1096,7 +1147,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 3,
+   "seconds": 1,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1120,7 +1171,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 6,
+   "seconds": 5,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1132,7 +1183,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 7,
+   "seconds": 5,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1144,7 +1195,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 2,
+   "seconds": 3,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1213,12 +1264,13 @@
    "id": "aiscientistcomputationalproteindesign|xairatherape|sfbayarea",
    "title": "AI Scientist, Computational Protein Design",
    "company": "Xaira Therapeutics",
-   "location": "South San Francisco, CA",
+   "location": "South San Francisco, California",
    "metro": "SF Bay Area",
-   "url": "https://simplify.jobs/p/4cb63190-49ea-4fe9-8526-f14f7a438869/AI-Scientist",
+   "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/4957313007",
    "posted": "2026-09-16",
    "sources": [
-    "JSearch/Simplify"
+    "JSearch/Simplify",
+    "회사/greenhouse"
    ],
    "flags": [],
    "remote": false,
@@ -2005,12 +2057,13 @@
    "id": "scientistcheminformatics|octantbio|sfbayarea",
    "title": "Scientist, Cheminformatics",
    "company": "Octant Bio",
-   "location": "Emeryville, Alameda County, California",
+   "location": "Emeryville, California",
    "metro": "SF Bay Area",
-   "url": "https://www.adzuna.com/details/5887616732?utm_medium=api&utm_source=d677d981",
+   "url": "https://www.octant.bio/jobs?gh_jid=6131353004",
    "posted": "2026-09-17",
    "sources": [
-    "Adzuna"
+    "Adzuna",
+    "회사/greenhouse"
    ],
    "flags": [],
    "remote": false,
@@ -3399,6 +3452,150 @@
    "last_seen": "2026-09-19",
    "group": "바이오텍·제약",
    "company_key": "Vividion Therapeutics"
+  },
+  "aiscientistbiomedicalai|xairatherape|sfbayarea": {
+   "id": "aiscientistbiomedicalai|xairatherape|sfbayarea",
+   "title": "AI Scientist, BioMedical AI",
+   "company": "Xaira Therapeutics",
+   "location": "South San Francisco, California",
+   "metro": "SF Bay Area",
+   "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/4987432007",
+   "posted": "2026-09-15",
+   "sources": [
+    "회사/greenhouse"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-19",
+   "last_seen": "2026-09-19",
+   "group": "AI·단백질설계",
+   "company_key": "Xaira Therapeutics"
+  },
+  "aiscientistbiomedicalmultimodalmodeling|xairatherape|sfbayarea": {
+   "id": "aiscientistbiomedicalmultimodalmodeling|xairatherape|sfbayarea",
+   "title": "AI Scientist - Biomedical Multimodal Modeling",
+   "company": "Xaira Therapeutics",
+   "location": "South San Francisco, California",
+   "metro": "SF Bay Area",
+   "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5036777007",
+   "posted": "2026-09-15",
+   "sources": [
+    "회사/greenhouse"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-19",
+   "last_seen": "2026-09-19",
+   "group": "AI·단백질설계",
+   "company_key": "Xaira Therapeutics"
+  },
+  "scientistiiantibodydiscoveryphagedisplay|xairatherape|sfbayarea": {
+   "id": "scientistiiantibodydiscoveryphagedisplay|xairatherape|sfbayarea",
+   "title": "Scientist II, Antibody Discovery (Phage Display)",
+   "company": "Xaira Therapeutics",
+   "location": "South San Francisco, California",
+   "metro": "SF Bay Area",
+   "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5194626007",
+   "posted": "2026-09-15",
+   "sources": [
+    "회사/greenhouse"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-19",
+   "last_seen": "2026-09-19",
+   "group": "AI·단백질설계",
+   "company_key": "Xaira Therapeutics"
+  },
+  "leadscientistassociatedirectorbioinformaticsanddatascience|profluentbio|sfbayarea": {
+   "id": "leadscientistassociatedirectorbioinformaticsanddatascience|profluentbio|sfbayarea",
+   "title": "Lead Scientist / Associate Director, Bioinformatics and Data Science",
+   "company": "Profluent Bio",
+   "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
+   "metro": "SF Bay Area",
+   "url": "https://job-boards.greenhouse.io/profluent/jobs/4983485008",
+   "posted": "2026-09-10",
+   "sources": [
+    "회사/greenhouse"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-19",
+   "last_seen": "2026-09-19",
+   "group": "AI·단백질설계",
+   "company_key": "Profluent Bio"
+  },
+  "machinelearningscientistbioml|profluentbio|sfbayarea": {
+   "id": "machinelearningscientistbioml|profluentbio|sfbayarea",
+   "title": "Machine Learning Scientist, BioML",
+   "company": "Profluent Bio",
+   "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
+   "metro": "SF Bay Area",
+   "url": "https://job-boards.greenhouse.io/profluent/jobs/5248524008",
+   "posted": "2026-09-10",
+   "sources": [
+    "회사/greenhouse"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-19",
+   "last_seen": "2026-09-19",
+   "group": "AI·단백질설계",
+   "company_key": "Profluent Bio"
+  },
+  "principalscientistcomputationalproteindesign|moderna|boston": {
+   "id": "principalscientistcomputationalproteindesign|moderna|boston",
+   "title": "Principal Scientist, Computational Protein Design",
+   "company": "Moderna",
+   "location": "Cambridge, Massachusetts / Research",
+   "metro": "Boston",
+   "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Principal-Scientist--Computational-Protein-Design_R19575",
+   "posted": "2026-08-20",
+   "sources": [
+    "회사/workday"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-19",
+   "last_seen": "2026-09-19",
+   "group": "바이오텍·제약",
+   "company_key": "Moderna"
+  },
+  "datascientistcomputationalbiologist|harvardunive|boston": {
+   "id": "datascientistcomputationalbiologist|harvardunive|boston",
+   "title": "Data Scientist/Computational Biologist",
+   "company": "Harvard University",
+   "location": "Boston, MA",
+   "metro": "Boston",
+   "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990014766326",
+   "posted": "2026-08-21",
+   "sources": [
+    "회사/smartrecruiters"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-19",
+   "last_seen": "2026-09-19",
+   "group": "연구소·대학",
+   "company_key": "Harvard University"
+  },
+  "bioinformaticssoftwareengineer|harvardunive|boston": {
+   "id": "bioinformaticssoftwareengineer|harvardunive|boston",
+   "title": "Bioinformatics Software Engineer",
+   "company": "Harvard University",
+   "location": "Boston, MA",
+   "metro": "Boston",
+   "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990011801881",
+   "posted": "2026-02-23",
+   "sources": [
+    "회사/smartrecruiters"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-19",
+   "last_seen": "2026-09-19",
+   "group": "연구소·대학",
+   "company_key": "Harvard University"
   }
  },
  "backfilled": "2026-09-19",
