@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-19T20:21:25+00:00",
+"updated": "2026-09-19T20:45:12+00:00",
 "jobs": [
 {
 "id": "directormultiomicsbioinformatics|illumina|sandiego",
@@ -690,6 +690,26 @@
 "company_key": "Vividion Therapeutics"
 },
 {
+"id": "aiengineerentrytoexpertlevelmaryland|nationalsecu|washingtondc",
+"title": "AI Engineer - Entry to Expert Level (Maryland)",
+"company": "National Security Agency/Central Security Service",
+"location": "Fort Meade, Maryland",
+"metro": "Washington DC",
+"url": "https://www.usajobs.gov:443/job/884897900",
+"posted": "2026-09-16",
+"sources": [
+"USAJOBS"
+],
+"flags": [
+"🇺🇸 연방정부"
+],
+"remote": false,
+"first_seen": "2026-09-19",
+"last_seen": "2026-09-19",
+"group": "",
+"company_key": null
+},
+{
 "id": "aiscientistbiomedicalai|xairatherape|sfbayarea",
 "title": "AI Scientist, BioMedical AI",
 "company": "Xaira Therapeutics",
@@ -1321,6 +1341,26 @@
 "Adzuna"
 ],
 "flags": [],
+"remote": false,
+"first_seen": "2026-09-19",
+"last_seen": "2026-09-19",
+"group": "",
+"company_key": null
+},
+{
+"id": "technicalresearchdevelopmentandengineeringofficer|centralintel|washingtondc",
+"title": "Technical Research, Development and Engineering Officer",
+"company": "Central Intelligence Agency",
+"location": "Washington, District of Columbia",
+"metro": "Washington DC",
+"url": "https://www.usajobs.gov:443/job/883591300",
+"posted": "2026-09-03",
+"sources": [
+"USAJOBS"
+],
+"flags": [
+"🇺🇸 연방정부"
+],
 "remote": false,
 "first_seen": "2026-09-19",
 "last_seen": "2026-09-19",
