@@ -68,6 +68,7 @@ include_remote: true
 metros:
   "SF Bay Area":
     search_location: "San Francisco Bay Area, CA"
+    usajobs_location: "San Francisco, California"
     jsearch_location: "San Francisco Bay Area, CA"
     adzuna_where: "San Francisco"
     radius_miles: 60
@@ -85,6 +86,7 @@ metros:
 
   "San Diego":
     search_location: "San Diego, CA"
+    usajobs_location: "San Diego, California"
     jsearch_location: "San Diego, CA"
     adzuna_where: "San Diego"
     radius_miles: 45
@@ -97,6 +99,7 @@ metros:
 
   "Boston":
     search_location: "Boston, MA"
+    usajobs_location: "Boston, Massachusetts"
     jsearch_location: "Boston, MA"
     adzuna_where: "Boston"
     radius_miles: 45
@@ -115,6 +118,7 @@ metros:
 
   "Washington DC":
     search_location: "Washington, DC"
+    usajobs_location: "Washington, District of Columbia"
     jsearch_location: "Washington, DC"
     adzuna_where: "Washington, DC"
     radius_miles: 45
@@ -151,10 +155,12 @@ sources:
   adzuna:
     enabled: true
     company_sweep: true
+    company_sweep_keywords: "protein computational biology bioinformatics machine learning drug discovery structural"
 
   # USAJOBS: NIH, NCI, FDA 등 연방 연구직
   usajobs:
     enabled: true
+    days_old: 30          # 연방 공고는 수가 적어 최근 30일까지 봄
     metros: ["Washington DC", "Boston", "SF Bay Area", "San Diego"]
 
   # 회사 채용 페이지 직접 연결은 companies.yaml 에서 관리합니다
