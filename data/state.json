@@ -241,7 +241,15 @@
   "computationalbiologysetatssci26071|strategicana|washingtondc": "2026-09-19",
   "Adzuna:5890271898": "2026-09-19",
   "directorseniordirectorcheminformaticsandappliedai|elililly|boston": "2026-09-19",
-  "회사:Eli Lilly:R-110981": "2026-09-19"
+  "회사:Eli Lilly:R-110981": "2026-09-19",
+  "Adzuna:5890669514": "2026-09-19",
+  "appliedaibioscientist|nablabio|boston": "2026-09-19",
+  "businessleadainativediscoveryautomationrobotics|3316takedade|boston": "2026-09-19",
+  "Adzuna:5879523960": "2026-09-19",
+  "directorclinicalbioinformatics|illumina|sandiego": "2026-09-19",
+  "Adzuna:5890645471": "2026-09-19",
+  "Adzuna:5885798384": "2026-09-19",
+  "aimlengineerdrugdiscoverycontractor|vividionther|sandiego": "2026-09-19"
  },
  "jsearch_last_run": "2026-09-19T05:41:51.781871+00:00",
  "jsearch_turn": 1,
@@ -341,7 +349,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 1,
+   "seconds": 4,
    "in_metro": 0,
    "other_locations": []
   },
@@ -352,7 +360,7 @@
    "via": "greenhouse",
    "source": "generatebiomedicines",
    "count": 1,
-   "seconds": 19,
+   "seconds": 0,
    "in_metro": 1,
    "other_locations": []
   },
@@ -364,7 +372,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 3,
+   "seconds": 1,
    "in_metro": 0,
    "other_locations": []
   },
@@ -498,7 +506,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 0,
+   "seconds": 1,
    "in_metro": 0,
    "other_locations": []
   },
@@ -510,7 +518,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 0,
+   "seconds": 1,
    "in_metro": 0,
    "other_locations": []
   },
@@ -604,7 +612,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 2,
+   "seconds": 3,
    "in_metro": 0,
    "other_locations": []
   },
@@ -615,7 +623,7 @@
    "via": "workday",
    "source": "https://biibhr.wd3.myworkdayjobs.com/external",
    "count": 0,
-   "seconds": 16,
+   "seconds": 17,
    "in_metro": 0,
    "other_locations": []
   },
@@ -627,7 +635,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 6,
+   "seconds": 3,
    "in_metro": 0,
    "other_locations": []
   },
@@ -651,7 +659,7 @@
    "source": "",
    "count": 0,
    "error": "radancy: Radancy 결과 0건 (형식 확인 필요)",
-   "seconds": 18,
+   "seconds": 21,
    "in_metro": 0,
    "other_locations": []
   },
@@ -673,7 +681,7 @@
    "via": "workday",
    "source": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers",
    "count": 0,
-   "seconds": 18,
+   "seconds": 16,
    "in_metro": 0,
    "other_locations": []
   },
@@ -697,7 +705,7 @@
    "via": "workday",
    "source": "https://gilead.wd1.myworkdayjobs.com/gileadcareers",
    "count": 0,
-   "seconds": 16,
+   "seconds": 18,
    "in_metro": 0,
    "other_locations": []
   },
@@ -708,9 +716,11 @@
    "via": "phenom",
    "source": "https://careers.lilly.com/us/en",
    "count": 1,
-   "seconds": 359,
-   "in_metro": 1,
-   "other_locations": []
+   "seconds": 361,
+   "in_metro": 0,
+   "other_locations": [
+    "Indianapolis, Indiana"
+   ]
   },
   {
    "name": "Merck",
@@ -719,7 +729,7 @@
    "via": "workday",
    "source": "https://msd.wd5.myworkdayjobs.com/SearchJobs",
    "count": 0,
-   "seconds": 21,
+   "seconds": 18,
    "in_metro": 0,
    "other_locations": []
   },
@@ -731,7 +741,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 2,
+   "seconds": 0,
    "in_metro": 0,
    "other_locations": []
   },
@@ -742,7 +752,7 @@
    "via": "workday",
    "source": "https://jj.wd5.myworkdayjobs.com/JJ",
    "count": 0,
-   "seconds": 18,
+   "seconds": 19,
    "in_metro": 0,
    "other_locations": []
   },
@@ -766,7 +776,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 1,
+   "seconds": 3,
    "in_metro": 0,
    "other_locations": []
   },
@@ -802,7 +812,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 0,
+   "seconds": 3,
    "in_metro": 0,
    "other_locations": []
   },
@@ -870,7 +880,7 @@
    "source": "",
    "count": 0,
    "error": "workday: Workday 결과 0건 (사이트 이름 확인 필요)",
-   "seconds": 18,
+   "seconds": 21,
    "in_metro": 0,
    "other_locations": []
   },
@@ -882,7 +892,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 5,
+   "seconds": 6,
    "in_metro": 0,
    "other_locations": []
   },
@@ -894,7 +904,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 3,
+   "seconds": 1,
    "in_metro": 0,
    "other_locations": []
   },
@@ -906,7 +916,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 2,
+   "seconds": 4,
    "in_metro": 0,
    "other_locations": []
   },
@@ -930,7 +940,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 2,
+   "seconds": 3,
    "in_metro": 0,
    "other_locations": []
   },
@@ -966,7 +976,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 2,
+   "seconds": 0,
    "in_metro": 0,
    "other_locations": []
   },
@@ -977,7 +987,7 @@
    "via": "workday",
    "source": "https://danafarber.wd5.myworkdayjobs.com/dana-farber",
    "count": 1,
-   "seconds": 19,
+   "seconds": 18,
    "in_metro": 0,
    "other_locations": [
     "Boston Job Posting Location"
@@ -1015,7 +1025,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 1,
+   "seconds": 3,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1027,7 +1037,7 @@
    "source": "",
    "count": 0,
    "error": "workday: Workday HTTP 422",
-   "seconds": 3,
+   "seconds": 5,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1039,7 +1049,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 5,
+   "seconds": 6,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1063,7 +1073,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 3,
+   "seconds": 1,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1122,7 +1132,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 3,
+   "seconds": 7,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1134,7 +1144,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 0,
+   "seconds": 2,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1145,7 +1155,7 @@
    "via": "workday",
    "source": "https://umd.wd1.myworkdayjobs.com/UMCP",
    "count": 0,
-   "seconds": 15,
+   "seconds": 16,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1157,7 +1167,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 6,
+   "seconds": 4,
    "in_metro": 0,
    "other_locations": []
   }
@@ -3017,6 +3027,7 @@
    "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Project-Manager--AI-Biology---Translation_202608-120698-1/apply",
    "posted": "2026-08-10",
    "sources": [
+    "Adzuna",
     "회사/phenom"
    ],
    "flags": [],
@@ -3161,6 +3172,7 @@
    "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/Principal-Machine-Learning-Engineer_202609-122724-1/apply",
    "posted": "2026-09-08",
    "sources": [
+    "Adzuna",
     "회사/phenom"
    ],
    "flags": [],
@@ -3315,7 +3327,80 @@
    "last_seen": "2026-09-19",
    "group": "",
    "company_key": null
+  },
+  "appliedaibioscientist|nablabio|boston": {
+   "id": "appliedaibioscientist|nablabio|boston",
+   "title": "Applied AI/Bio Scientist",
+   "company": "Nabla Bio",
+   "location": "Cambridge, Middlesex County, Massachusetts",
+   "metro": "Boston",
+   "url": "https://www.adzuna.com/details/5890669514?utm_medium=api&utm_source=d677d981",
+   "posted": "2026-09-19",
+   "sources": [
+    "Adzuna"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-19",
+   "last_seen": "2026-09-19",
+   "group": "AI·단백질설계",
+   "company_key": "Nabla Bio"
+  },
+  "businessleadainativediscoveryautomationrobotics|takeda|boston": {
+   "id": "businessleadainativediscoveryautomationrobotics|takeda|boston",
+   "title": "Business Lead, AI-native Discovery Automation & Robotics",
+   "company": "Takeda",
+   "location": "Boston, Suffolk County, Massachusetts",
+   "metro": "Boston",
+   "url": "https://www.adzuna.com/details/5879523960?utm_medium=api&utm_source=d677d981",
+   "posted": "2026-09-11",
+   "sources": [
+    "Adzuna"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-19",
+   "last_seen": "2026-09-19",
+   "group": "바이오텍·제약",
+   "company_key": "Takeda"
+  },
+  "directorclinicalbioinformatics|illumina|sandiego": {
+   "id": "directorclinicalbioinformatics|illumina|sandiego",
+   "title": "Director Clinical Bioinformatics",
+   "company": "Illumina",
+   "location": "San Diego, San Diego County, California",
+   "metro": "San Diego",
+   "url": "https://www.adzuna.com/details/5890645471?utm_medium=api&utm_source=d677d981",
+   "posted": "2026-09-19",
+   "sources": [
+    "Adzuna"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-19",
+   "last_seen": "2026-09-19",
+   "group": "바이오텍·제약",
+   "company_key": "Illumina"
+  },
+  "aimlengineerdrugdiscoverycontractor|vividionther|sandiego": {
+   "id": "aimlengineerdrugdiscoverycontractor|vividionther|sandiego",
+   "title": "AI/ML Engineer, Drug Discovery (Contractor)",
+   "company": "Vividion Therapeutics",
+   "location": "La Jolla, San Diego County, California",
+   "metro": "San Diego",
+   "url": "https://www.adzuna.com/details/5885798384?utm_medium=api&utm_source=d677d981",
+   "posted": "2026-09-16",
+   "sources": [
+    "Adzuna"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-19",
+   "last_seen": "2026-09-19",
+   "group": "바이오텍·제약",
+   "company_key": "Vividion Therapeutics"
   }
  },
- "backfilled": "2026-09-19"
+ "backfilled": "2026-09-19",
+ "adzuna_company_mode": "phrase+keywords"
 }

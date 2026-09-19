@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-19T15:16:32+00:00",
+"updated": "2026-09-19T19:19:27+00:00",
 "jobs": [
 {
 "id": "directormultiomicsbioinformatics|illumina|sandiego",
@@ -38,6 +38,42 @@
 "last_seen": "2026-09-19",
 "group": "",
 "company_key": null
+},
+{
+"id": "appliedaibioscientist|nablabio|boston",
+"title": "Applied AI/Bio Scientist",
+"company": "Nabla Bio",
+"location": "Cambridge, Middlesex County, Massachusetts",
+"metro": "Boston",
+"url": "https://www.adzuna.com/details/5890669514?utm_medium=api&utm_source=d677d981",
+"posted": "2026-09-19",
+"sources": [
+"Adzuna"
+],
+"flags": [],
+"remote": false,
+"first_seen": "2026-09-19",
+"last_seen": "2026-09-19",
+"group": "AI·단백질설계",
+"company_key": "Nabla Bio"
+},
+{
+"id": "directorclinicalbioinformatics|illumina|sandiego",
+"title": "Director Clinical Bioinformatics",
+"company": "Illumina",
+"location": "San Diego, San Diego County, California",
+"metro": "San Diego",
+"url": "https://www.adzuna.com/details/5890645471?utm_medium=api&utm_source=d677d981",
+"posted": "2026-09-19",
+"sources": [
+"Adzuna"
+],
+"flags": [],
+"remote": false,
+"first_seen": "2026-09-19",
+"last_seen": "2026-09-19",
+"group": "바이오텍·제약",
+"company_key": "Illumina"
 },
 {
 "id": "seniorprincipalscientistcomputationalneurosciencecomputationalsciencescenterofexcellence|genentech|sfbayarea",
@@ -634,6 +670,24 @@
 "company_key": null
 },
 {
+"id": "aimlengineerdrugdiscoverycontractor|vividionther|sandiego",
+"title": "AI/ML Engineer, Drug Discovery (Contractor)",
+"company": "Vividion Therapeutics",
+"location": "La Jolla, San Diego County, California",
+"metro": "San Diego",
+"url": "https://www.adzuna.com/details/5885798384?utm_medium=api&utm_source=d677d981",
+"posted": "2026-09-16",
+"sources": [
+"Adzuna"
+],
+"flags": [],
+"remote": false,
+"first_seen": "2026-09-19",
+"last_seen": "2026-09-19",
+"group": "바이오텍·제약",
+"company_key": "Vividion Therapeutics"
+},
+{
 "id": "associatedirectorantibodydiscoveryprograms|alloytherape|boston",
 "title": "Associate Director - Antibody Discovery Programs",
 "company": "Alloy Therapeutics",
@@ -814,6 +868,24 @@
 "company_key": "Takeda"
 },
 {
+"id": "businessleadainativediscoveryautomationrobotics|takeda|boston",
+"title": "Business Lead, AI-native Discovery Automation & Robotics",
+"company": "Takeda",
+"location": "Boston, Suffolk County, Massachusetts",
+"metro": "Boston",
+"url": "https://www.adzuna.com/details/5879523960?utm_medium=api&utm_source=d677d981",
+"posted": "2026-09-11",
+"sources": [
+"Adzuna"
+],
+"flags": [],
+"remote": false,
+"first_seen": "2026-09-19",
+"last_seen": "2026-09-19",
+"group": "바이오텍·제약",
+"company_key": "Takeda"
+},
+{
 "id": "seniorbiologistproteinengineering|elililly|sandiego",
 "title": "Senior Biologist - Protein Engineering",
 "company": "Eli Lilly",
@@ -933,6 +1005,7 @@
 "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/Principal-Machine-Learning-Engineer_202609-122724-1/apply",
 "posted": "2026-09-08",
 "sources": [
+"Adzuna",
 "회사/phenom"
 ],
 "flags": [],
@@ -1911,6 +1984,7 @@
 "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Project-Manager--AI-Biology---Translation_202608-120698-1/apply",
 "posted": "2026-08-10",
 "sources": [
+"Adzuna",
 "회사/phenom"
 ],
 "flags": [],
