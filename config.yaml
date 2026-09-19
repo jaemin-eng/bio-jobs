@@ -1,0 +1,160 @@
+# ============================================================
+#  단백질 설계 · 계산생물학 Job Watcher 설정
+#  API 키는 여기에 쓰지 말고 GitHub Secrets에 넣으세요.
+# ============================================================
+
+# 검색어 (각 API에 이 문구로 검색)
+search_queries:
+  - "computational biology"
+  - "protein design"
+  - "protein engineering"
+  - "machine learning drug discovery"
+  - "bioinformatics scientist"
+  - "computational chemistry"
+
+# 공고 "제목"에 아래 패턴 중 하나라도 있어야 통과 (정규식, 대소문자 무시)
+title_include_patterns:
+  - 'protein\s*(design|engineer|science|scientist|modeling|structure)'
+  - '\bprotein\b.*\b(design|engineer|scientist|discovery|ml|ai)\b'
+  - 'computational\s*(biolog|chem|structural|scien|protein|design|drug)'
+  - '\bbioinformatic'
+  - 'structural\s*biolog|cryo-?em'
+  - 'machine learning.*\b(bio|protein|drug|molecul|chem|genom|therapeut)'
+  - '\b(ai|ml)\b.*\b(drug|protein|bio|molecul|therapeut|discovery)'
+  - 'drug discovery.*\b(computational|ai|ml|machine|data)'
+  - 'cheminformatic'
+  - 'molecular\s*(dynamics|modeling|simulation|design)'
+  - 'biophysic'
+  - 'antibody\s*(design|engineer|discovery)'
+  - 'enzyme\s*(design|engineer)'
+  - 'de novo (protein|design)'
+  - 'generative.*\b(bio|protein|molecul|chem)'
+  - 'computational scientist'
+  - '(scientist|engineer).*\bstructure[- ]based'
+
+# 제목에 아래가 있으면 제외
+title_exclude_patterns:
+  - '\bsales\b|\baccount executive\b'
+  - '\brecruiter\b|talent acquisition'
+  - '\bintern\b|\binternship\b'
+  - '\btechnician\b'
+  - 'manufacturing|\bQC\b|quality control'
+  - 'field application|\bsupport specialist\b'
+  - 'clinical (trial|research) (coordinator|associate)'
+
+# 본문에 이런 문구가 있으면 "🔐 클리어런스/시민권" 표시
+clearance_patterns:
+  - 'security clearance'
+  - 'U\.?S\.? citizenship (is )?required'
+  - 'must be a U\.?S\.? citizen'
+hide_clearance_jobs: false
+
+# true면 robots.txt로 자동 수집을 막아둔 회사 사이트는 읽지 않음
+respect_robots_txt: false
+# 같은 회사 사이트에 요청을 보내는 간격(초)
+company_request_delay: 3.0
+
+# 평소 실행: 최근 며칠 이내 새 공고만 확인
+max_days_old: 3
+# 첫 실행(백필): 현재 올라와 있는 공고를 최근 며칠치까지 여러 페이지 가져옴
+# 다시 받고 싶으면 data/state.json 을 삭제하세요
+backfill_days: 30
+backfill_pages: 4
+
+# 원격 근무 공고도 포함할지 (계산 분야는 원격이 많아 켜둠)
+include_remote: true
+
+# 지역 (RF 사이트와 같은 네 곳)
+metros:
+  "SF Bay Area":
+    search_location: "San Francisco Bay Area, CA"
+    jsearch_location: "San Francisco Bay Area, CA"
+    adzuna_where: "San Francisco"
+    radius_miles: 60
+    states: ["CA"]
+    cities: [San Francisco, South San Francisco, San Jose, Oakland, Berkeley, Emeryville,
+             Palo Alto, Mountain View, Sunnyvale, Santa Clara, Cupertino, Menlo Park,
+             Redwood City, San Mateo, Foster City, Burlingame, San Carlos, Belmont,
+             San Bruno, Fremont, Newark, Union City, Hayward, Milpitas, Pleasanton,
+             Livermore, Dublin, San Ramon, Walnut Creek, Concord, Alameda, Richmond,
+             Los Gatos, Campbell, Saratoga, Morgan Hill, Los Altos, Scotts Valley, Gilroy,
+             Moffett Field, Millbrae, Daly City, Brisbane, Atherton, Woodside, Portola Valley,
+             San Leandro, Castro Valley, El Cerrito, Albany, Danville, Pleasant Hill,
+             Martinez, Vallejo, Benicia, San Rafael, Novato, Petaluma, Mill Valley,
+             Sausalito, Stanford, Santa Cruz, Bay Area]
+
+  "San Diego":
+    search_location: "San Diego, CA"
+    jsearch_location: "San Diego, CA"
+    adzuna_where: "San Diego"
+    radius_miles: 45
+    states: ["CA"]
+    cities: [San Diego, La Jolla, Sorrento Valley, Torrey Pines, Del Mar, Solana Beach,
+             Carmel Valley, Rancho Bernardo, Scripps Ranch, Mira Mesa, Miramar, Kearny Mesa,
+             Point Loma, Coronado, Chula Vista, National City, El Cajon, La Mesa, Santee,
+             Poway, Escondido, San Marcos, Vista, Carlsbad, Oceanside, Encinitas, Cardiff,
+             Spring Valley, Lemon Grove, Bonita, Rancho Santa Fe, Fallbrook]
+
+  "Boston":
+    search_location: "Boston, MA"
+    jsearch_location: "Boston, MA"
+    adzuna_where: "Boston"
+    radius_miles: 45
+    states: ["MA", "NH"]
+    cities: [Boston, Cambridge, Somerville, Watertown, Waltham, Newton, Needham, Wellesley,
+             Natick, Framingham, Marlborough, Hudson, Hopkinton, Burlington, Bedford,
+             Lexington, Woburn, Wilmington, Tewksbury, Andover, North Andover, Billerica,
+             Chelmsford, Lowell, Westford, Littleton, Acton, Maynard, Concord, Medford,
+             Malden, Quincy, Braintree, Canton, Norwood, Westwood, Beverly, Danvers,
+             Peabody, Salem, Lynnfield, Marlboro, Boxborough, Nashua, Salem NH, Hampton,
+             Tyngsborough, Dracut, Methuen, Lawrence, Haverhill, Stoneham, Reading,
+             North Reading, Wakefield, Lynn, Saugus, Dedham, Sudbury, Wayland, Southborough,
+             Northborough, Westborough, Devens, Ayer, Stow, Carlisle, Sharon, Foxborough,
+             Mansfield, Arlington, Belmont, Winchester, Brookline, Charlestown, Seaport,
+             Allston, Brighton, Chestnut Hill, Merrimack, Hudson NH, Manchester]
+
+  "Washington DC":
+    search_location: "Washington, DC"
+    jsearch_location: "Washington, DC"
+    adzuna_where: "Washington, DC"
+    radius_miles: 45
+    states: ["DC", "VA", "MD"]
+    cities: [Washington, Arlington, Alexandria, Falls Church, McLean, Tysons, Vienna,
+             Fairfax, Reston, Herndon, Chantilly, Sterling, Ashburn, Leesburg, Manassas,
+             Springfield, Woodbridge, Bethesda, Rockville, Gaithersburg, Germantown,
+             Silver Spring, College Park, Greenbelt, Lanham, Laurel, Columbia,
+             Fort Meade, Hanover, Linthicum, Elkridge, Frederick, Beltsville, Adelphi,
+             Suitland, Largo, Bowie, Baltimore, Towson, Annapolis, Odenton, Glen Burnie,
+             Hunt Valley, Owings Mills, Aberdeen, Halethorpe, Catonsville, Jessup,
+             Kensington, Chevy Chase, North Bethesda, Potomac, Clarksburg, Hagerstown,
+             Shady Grove, White Oak]
+
+# ------------------------------------------------------------
+# 데이터 소스
+# ------------------------------------------------------------
+sources:
+  # JSearch: LinkedIn, Indeed, Glassdoor 등
+  # RF 사이트와 키를 나눠 쓰므로 이틀에 한 번, 검색어 1개 (월 약 62회)
+  jsearch:
+    enabled: true
+    run_every_days: 2
+    queries_per_day: 1
+    rotating_queries:
+      - "protein design"
+      - "computational biology"
+      - "machine learning drug discovery"
+      - "bioinformatics"
+      - "protein engineering"
+      - "computational chemistry"
+
+  # Adzuna: 무료 API
+  adzuna:
+    enabled: true
+    company_sweep: true
+
+  # USAJOBS: NIH, NCI, FDA 등 연방 연구직
+  usajobs:
+    enabled: true
+    metros: ["Washington DC", "Boston", "SF Bay Area", "San Diego"]
+
+  # 회사 채용 페이지 직접 연결은 companies.yaml 에서 관리합니다

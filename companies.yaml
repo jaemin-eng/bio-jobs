@@ -1,0 +1,345 @@
+# ============================================================
+#  직접 연결할 회사 목록 (단백질 설계 · 계산생물학)
+#
+#  group   : 대시보드 필터 이름
+#  aliases : 다른 사이트에서 이 이름으로 나오면 같은 회사로 봄
+#  sources : 확인된 채용 시스템 (없으면 careers 페이지에서 자동으로 찾음)
+#  careers : 회사 채용 페이지 주소
+#  manual_url : 직접 연결이 안 될 때 손으로 열어볼 주소
+# ============================================================
+
+companies:
+  # ---------------- AI · 단백질 설계 ----------------
+  - name: Xaira Therapeutics
+    group: AI·단백질설계
+    careers: [https://xaira.com/careers/, https://job-boards.greenhouse.io/xaira]
+
+  - name: Generate Biomedicines
+    group: AI·단백질설계
+    aliases: [Generate:Biomedicines]
+    careers: [https://generatebiomedicines.com/careers, https://job-boards.greenhouse.io/generatebiomedicines]
+
+  - name: Insitro
+    group: AI·단백질설계
+    careers: [https://insitro.com/careers, https://job-boards.greenhouse.io/insitro]
+
+  - name: Genesis Therapeutics
+    group: AI·단백질설계
+    careers: [https://www.genesistherapeutics.ai/careers, https://job-boards.greenhouse.io/genesistherapeutics]
+
+  - name: Profluent Bio
+    group: AI·단백질설계
+    aliases: [Profluent]
+    careers: [https://www.profluent.bio/careers]
+
+  - name: Nabla Bio
+    group: AI·단백질설계
+    careers: [https://www.nabla.bio/careers, https://jobs.ashbyhq.com/nabla-bio]
+
+  - name: BigHat Biosciences
+    group: AI·단백질설계
+    aliases: [BigHat]
+    careers: [https://www.bighatbio.com/careers]
+
+  - name: Chai Discovery
+    group: AI·단백질설계
+    careers: [https://www.chaidiscovery.com/careers, https://jobs.ashbyhq.com/chai-discovery]
+
+  - name: EvolutionaryScale
+    group: AI·단백질설계
+    careers: [https://www.evolutionaryscale.ai/careers]
+
+  - name: Dyno Therapeutics
+    group: AI·단백질설계
+    careers: [https://www.dynotx.com/careers/]
+
+  - name: Manifold Bio
+    group: AI·단백질설계
+    careers: [https://www.manifold.bio/careers]
+
+  - name: Atomwise
+    group: AI·단백질설계
+    careers: [https://www.atomwise.com/careers/]
+
+  - name: Iambic Therapeutics
+    group: AI·단백질설계
+    careers: [https://www.iambic.ai/careers]
+
+  - name: Terray Therapeutics
+    group: AI·단백질설계
+    careers: [https://terraytx.com/careers/]
+
+  - name: Schrodinger
+    group: AI·단백질설계
+    aliases: [Schrödinger]
+    careers: [https://www.schrodinger.com/careers/]
+
+  - name: Recursion
+    group: AI·단백질설계
+    aliases: [Recursion Pharmaceuticals]
+    careers: [https://www.recursion.com/careers]
+
+  - name: Lila Sciences
+    group: AI·단백질설계
+    careers: [https://www.lila.ai/careers]
+
+  - name: Benchling
+    group: AI·단백질설계
+    careers: [https://www.benchling.com/careers]
+
+  - name: Octant Bio
+    group: AI·단백질설계
+    aliases: [Octant]
+    careers: [https://www.octant.bio/careers]
+
+  - name: Tessera Therapeutics
+    group: AI·단백질설계
+    careers: [https://tesseratherapeutics.com/careers/]
+
+  # ---------------- 바이오텍 · 제약 ----------------
+  - name: Genentech
+    group: 바이오텍·제약
+    aliases: [Roche]
+    careers: [https://careers.gene.com/us/en, https://careers.roche.com]
+
+  - name: Moderna
+    group: 바이오텍·제약
+    careers: [https://www.modernatx.com/careers/open-positions]
+
+  - name: Vertex Pharmaceuticals
+    group: 바이오텍·제약
+    aliases: [Vertex]
+    careers: [https://www.vrtx.com/careers/]
+
+  - name: Biogen
+    group: 바이오텍·제약
+    careers: [https://www.biogen.com/careers.html]
+
+  - name: Novartis Biomedical Research
+    group: 바이오텍·제약
+    aliases: [Novartis, NIBR]
+    careers: [https://www.novartis.com/careers/career-search]
+
+  - name: Takeda
+    group: 바이오텍·제약
+    careers: [https://www.takedajobs.com/]
+
+  - name: AstraZeneca
+    group: 바이오텍·제약
+    aliases: [MedImmune]
+    careers: [https://careers.astrazeneca.com/search-jobs]
+
+  - name: Bristol Myers Squibb
+    group: 바이오텍·제약
+    aliases: [BMS, Bristol-Myers Squibb]
+    careers: [https://careers.bms.com/careers]
+
+  - name: Pfizer
+    group: 바이오텍·제약
+    careers: [https://www.pfizer.com/about/careers]
+
+  - name: Amgen
+    group: 바이오텍·제약
+    careers: [https://careers.amgen.com/en/search-jobs]
+
+  - name: Gilead Sciences
+    group: 바이오텍·제약
+    aliases: [Gilead]
+    careers: [https://www.gilead.com/careers]
+
+  - name: Eli Lilly
+    group: 바이오텍·제약
+    aliases: [Lilly]
+    careers: [https://careers.lilly.com/us/en/search-results]
+
+  - name: Merck
+    group: 바이오텍·제약
+    aliases: [MSD]
+    careers: [https://jobs.merck.com/us/en]
+
+  - name: Sanofi
+    group: 바이오텍·제약
+    careers: [https://en.jobs.sanofi.com/]
+
+  - name: Johnson & Johnson
+    group: 바이오텍·제약
+    aliases: [Janssen, J&J]
+    careers: [https://www.careers.jnj.com/en/jobs/]
+
+  - name: Relay Therapeutics
+    group: 바이오텍·제약
+    careers: [https://relaytx.com/careers/]
+
+  - name: Nimbus Therapeutics
+    group: 바이오텍·제약
+    careers: [https://www.nimbustx.com/careers/]
+
+  - name: Monte Rosa Therapeutics
+    group: 바이오텍·제약
+    careers: [https://www.monterosatx.com/careers/]
+
+  - name: Treeline Biosciences
+    group: 바이오텍·제약
+    careers: [https://treelinebio.com/careers/]
+
+  - name: Denali Therapeutics
+    group: 바이오텍·제약
+    careers: [https://denalitherapeutics.com/careers]
+
+  - name: Septerna
+    group: 바이오텍·제약
+    careers: [https://septerna.com/careers/]
+
+  - name: Vir Biotechnology
+    group: 바이오텍·제약
+    aliases: [Vir Bio]
+    careers: [https://www.vir.bio/careers/]
+
+  - name: Ginkgo Bioworks
+    group: 바이오텍·제약
+    aliases: [Ginkgo]
+    careers: [https://jobs.ginkgobioworks.com/, https://job-boards.greenhouse.io/ginkgobioworks]
+
+  - name: Illumina
+    group: 바이오텍·제약
+    careers: [https://www.illumina.com/company/careers.html]
+
+  - name: Neurocrine Biosciences
+    group: 바이오텍·제약
+    aliases: [Neurocrine]
+    careers: [https://www.neurocrine.com/careers/]
+
+  - name: Crinetics Pharmaceuticals
+    group: 바이오텍·제약
+    aliases: [Crinetics]
+    careers: [https://crinetics.com/careers/]
+
+  - name: Vividion Therapeutics
+    group: 바이오텍·제약
+    aliases: [Vividion]
+    careers: [https://www.vividion.com/careers/]
+
+  - name: MacroGenics
+    group: 바이오텍·제약
+    careers: [https://macrogenics.com/careers/]
+
+  - name: Arcellx
+    group: 바이오텍·제약
+    careers: [https://arcellx.com/careers/]
+
+  - name: United Therapeutics
+    group: 바이오텍·제약
+    careers: [https://www.unither.com/careers]
+
+  # ---------------- 연구소 · 대학 ----------------
+  - name: Broad Institute
+    group: 연구소·대학
+    aliases: [Broad Institute of MIT and Harvard]
+    careers: [https://www.broadinstitute.org/careers]
+
+  - name: Arc Institute
+    group: 연구소·대학
+    careers: [https://arcinstitute.org/careers, https://job-boards.greenhouse.io/arcinstitute]
+
+  - name: Chan Zuckerberg Biohub
+    group: 연구소·대학
+    aliases: [CZ Biohub, Chan Zuckerberg Initiative]
+    careers: [https://www.czbiohub.org/careers/]
+
+  - name: Whitehead Institute
+    group: 연구소·대학
+    careers: [https://wi.mit.edu/careers]
+
+  - name: Dana-Farber Cancer Institute
+    group: 연구소·대학
+    aliases: [Dana Farber]
+    careers: [https://careers.dana-farber.org/]
+
+  - name: MIT
+    group: 연구소·대학
+    aliases: [Massachusetts Institute of Technology]
+    careers: [https://careers.mit.edu/]
+
+  - name: Harvard University
+    group: 연구소·대학
+    aliases: [Harvard Medical School, Harvard]
+    careers: [https://hr.harvard.edu/search-jobs]
+    manual_url: https://hr.harvard.edu/search-jobs
+
+  - name: Stanford University
+    group: 연구소·대학
+    aliases: [Stanford, Stanford Medicine]
+    careers: [https://careersearch.stanford.edu/]
+
+  - name: UCSF
+    group: 연구소·대학
+    aliases: [University of California San Francisco]
+    careers: [https://ucsf.wd5.myworkdayjobs.com/UCSF_Jobs]
+
+  - name: UC San Diego
+    group: 연구소·대학
+    aliases: [UCSD, University of California San Diego]
+    careers: [https://employment.ucsd.edu/]
+
+  - name: UC Berkeley
+    group: 연구소·대학
+    aliases: [Berkeley, University of California Berkeley]
+    careers: [https://jobs.berkeley.edu/]
+
+  - name: Lawrence Berkeley National Laboratory
+    group: 연구소·대학
+    aliases: [LBNL, Berkeley Lab]
+    careers: [https://jobs.lbl.gov/]
+
+  - name: Lawrence Livermore National Laboratory
+    group: 연구소·대학
+    aliases: [LLNL, Lawrence Livermore]
+    sources:
+      - smartrecruiters: LLNL
+    careers: [https://www.llnl.gov/join-our-team/careers/find-your-job]
+
+  - name: Scripps Research
+    group: 연구소·대학
+    aliases: [The Scripps Research Institute, TSRI]
+    careers: [https://www.scripps.edu/careers/]
+
+  - name: Salk Institute
+    group: 연구소·대학
+    careers: [https://www.salk.edu/careers/]
+
+  - name: Sanford Burnham Prebys
+    group: 연구소·대학
+    aliases: [Sanford Burnham]
+    careers: [https://www.sbpdiscovery.org/careers]
+
+  - name: J. Craig Venter Institute
+    group: 연구소·대학
+    aliases: [JCVI, Craig Venter]
+    careers: [https://www.jcvi.org/careers]
+
+  - name: Johns Hopkins University
+    group: 연구소·대학
+    aliases: [Johns Hopkins, JHU, Johns Hopkins Medicine]
+    careers: [https://jobs.jhu.edu/]
+
+  - name: University of Maryland
+    group: 연구소·대학
+    aliases: [UMB, Institute for Genome Sciences]
+    careers: [https://ejobs.umd.edu/]
+
+  - name: Frederick National Laboratory
+    group: 연구소·대학
+    aliases: [Leidos Biomedical Research, Frederick National Lab]
+    careers: [https://frederick.cancer.gov/careers]
+
+# ---- 직접 연결 없이 Adzuna/JSearch에서 잡힌 공고에 그룹 표시만 ----
+tag_only:
+  AI·단백질설계: [Isomorphic Labs, DeepMind, Cradle Bio, Latent Labs, Diffuse Bio,
+                 Absci, Generate, Enveda, Cellarity, Valence Labs, Genmab]
+  바이오텍·제약: [Regeneron, Novo Nordisk, GSK, Roche, Bayer, Boehringer, Alnylam,
+                Beam Therapeutics, Editas, Intellia, Verve, Alector, Sutro Biopharma,
+                Nkarta, Arcus, Exelixis, Revolution Medicines, Structure Therapeutics,
+                10x Genomics, Thermo Fisher, Danaher, Bruker, Twist Bioscience]
+  연구소·대학: [NIH, National Institutes of Health, NCI, FDA, NIST, Boston University,
+              Northeastern University, Tufts, Caltech, Carnegie Institution,
+              Howard Hughes Medical Institute, HHMI, Georgetown, George Washington University]
