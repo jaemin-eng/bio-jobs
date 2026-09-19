@@ -1,6 +1,44 @@
 {
-"updated": "2026-09-19T05:57:15+00:00",
+"updated": "2026-09-19T15:16:32+00:00",
 "jobs": [
+{
+"id": "directormultiomicsbioinformatics|illumina|sandiego",
+"title": "Director, Multiomics Bioinformatics",
+"company": "Illumina",
+"location": "San Diego, San Diego County, California",
+"metro": "San Diego",
+"url": "https://www.adzuna.com/details/5890357693?utm_medium=api&utm_source=d677d981",
+"posted": "2026-09-19",
+"sources": [
+"Adzuna"
+],
+"flags": [],
+"remote": false,
+"first_seen": "2026-09-19",
+"last_seen": "2026-09-19",
+"group": "바이오텍·제약",
+"company_key": "Illumina"
+},
+{
+"id": "computationalbiologysetatssci26071|strategicana|washingtondc",
+"title": "Computational Biology SETA (TS/SCI 26-071) with Security Clearance",
+"company": "Strategic Analysis, Inc.",
+"location": "Crystal, Arlington County, Virginia",
+"metro": "Washington DC",
+"url": "https://www.adzuna.com/land/ad/5890271898?se=QqNejjq08RGSI57gYuD12g&utm_medium=api&utm_source=d677d981&v=8DFF53997172A10254630D3EAD2EE4FF474A9B5A",
+"posted": "2026-09-19",
+"sources": [
+"Adzuna"
+],
+"flags": [
+"🔐 클리어런스"
+],
+"remote": false,
+"first_seen": "2026-09-19",
+"last_seen": "2026-09-19",
+"group": "",
+"company_key": null
+},
 {
 "id": "seniorprincipalscientistcomputationalneurosciencecomputationalsciencescenterofexcellence|genentech|sfbayarea",
 "title": "Senior/Principal Scientist, Computational Neuroscience, Computational Sciences Center of Excellence",
@@ -1018,12 +1056,13 @@
 "id": "directorseniordirectorcheminformaticsandappliedai|elililly|boston",
 "title": "Director / Senior Director - Cheminformatics and Applied AI",
 "company": "Eli Lilly",
-"location": "Boston, Suffolk County, Massachusetts",
+"location": "Boston, Massachusetts",
 "metro": "Boston",
-"url": "https://www.adzuna.com/land/ad/5870497238?se=tkHj9Oyz8RGm1alvctyjWA&utm_medium=api&utm_source=d677d981&v=7190FEC95C5FA59E23080EA24C6E9EAC2FF24B21",
+"url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Boston-MA/Director---Senior-Director---Cheminformatics-and-Applied-AI_R-110981/apply",
 "posted": "2026-09-04",
 "sources": [
-"Adzuna"
+"Adzuna",
+"회사/phenom"
 ],
 "flags": [],
 "remote": false,
