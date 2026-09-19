@@ -11,6 +11,8 @@
 companies:
   # ---------------- AI · 단백질 설계 ----------------
   - name: Xaira Therapeutics
+    sources:
+      - greenhouse: xairatherapeutics
     group: AI·단백질설계
     careers: [https://xaira.com/careers/, https://job-boards.greenhouse.io/xaira]
 
@@ -20,6 +22,8 @@ companies:
     careers: [https://generatebiomedicines.com/careers, https://job-boards.greenhouse.io/generatebiomedicines]
 
   - name: Insitro
+    sources:
+      - ashby: insitro
     group: AI·단백질설계
     careers: [https://insitro.com/careers, https://job-boards.greenhouse.io/insitro]
 
@@ -28,15 +32,19 @@ companies:
     careers: [https://www.genesistherapeutics.ai/careers, https://job-boards.greenhouse.io/genesistherapeutics]
 
   - name: Profluent Bio
+    sources:
+      - greenhouse: profluent
     group: AI·단백질설계
     aliases: [Profluent]
     careers: [https://www.profluent.bio/careers]
 
   - name: Nabla Bio
+    manual_url: https://jobs.gem.com/nabla-bio
     group: AI·단백질설계
     careers: [https://www.nabla.bio/careers, https://jobs.ashbyhq.com/nabla-bio]
 
   - name: BigHat Biosciences
+    manual_url: https://bighatbiosciences.pinpointhq.com/
     group: AI·단백질설계
     aliases: [BigHat]
     careers: [https://www.bighatbio.com/careers]
@@ -46,6 +54,8 @@ companies:
     careers: [https://www.chaidiscovery.com/careers, https://jobs.ashbyhq.com/chai-discovery]
 
   - name: EvolutionaryScale
+    sources:
+      - greenhouse: evolutionaryscale
     group: AI·단백질설계
     careers: [https://www.evolutionaryscale.ai/careers]
 
@@ -58,6 +68,8 @@ companies:
     careers: [https://www.manifold.bio/careers]
 
   - name: Atomwise
+    sources:
+      - greenhouse: atomwise
     group: AI·단백질설계
     careers: [https://www.atomwise.com/careers/]
 
@@ -66,10 +78,13 @@ companies:
     careers: [https://www.iambic.ai/careers]
 
   - name: Terray Therapeutics
+    manual_url: https://ats.rippling.com/terraytx
     group: AI·단백질설계
     careers: [https://terraytx.com/careers/]
 
   - name: Schrodinger
+    sources:
+      - greenhouse: schrdinger
     group: AI·단백질설계
     aliases: [Schrödinger]
     careers: [https://www.schrodinger.com/careers/]
@@ -88,6 +103,8 @@ companies:
     careers: [https://www.benchling.com/careers]
 
   - name: Octant Bio
+    sources:
+      - greenhouse: octantbio
     group: AI·단백질설계
     aliases: [Octant]
     careers: [https://www.octant.bio/careers]
@@ -103,10 +120,14 @@ companies:
     careers: [https://careers.gene.com/us/en, https://careers.roche.com]
 
   - name: Moderna
+    sources:
+      - workday: https://modernatx.wd1.myworkdayjobs.com/M_tx
     group: 바이오텍·제약
     careers: [https://www.modernatx.com/careers/open-positions]
 
   - name: Vertex Pharmaceuticals
+    sources:
+      - workday: https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers
     group: 바이오텍·제약
     aliases: [Vertex]
     careers: [https://www.vrtx.com/careers/]
@@ -116,6 +137,8 @@ companies:
     careers: [https://www.biogen.com/careers.html]
 
   - name: Novartis Biomedical Research
+    sources:
+      - workday: https://novartis.wd3.myworkdayjobs.com/Novartis_Careers
     group: 바이오텍·제약
     aliases: [Novartis, NIBR]
     careers: [https://www.novartis.com/careers/career-search]
@@ -158,6 +181,8 @@ companies:
     careers: [https://jobs.merck.com/us/en]
 
   - name: Sanofi
+    sources:
+      - workday: https://sanofi.wd3.myworkdayjobs.com/SanofiCareers
     group: 바이오텍·제약
     careers: [https://en.jobs.sanofi.com/]
 
@@ -167,22 +192,32 @@ companies:
     careers: [https://www.careers.jnj.com/en/jobs/]
 
   - name: Relay Therapeutics
+    sources:
+      - greenhouse: relaytherapeutics
     group: 바이오텍·제약
     careers: [https://relaytx.com/careers/]
 
   - name: Nimbus Therapeutics
+    sources:
+      - greenhouse: nimbustherapeutics
     group: 바이오텍·제약
     careers: [https://www.nimbustx.com/careers/]
 
   - name: Monte Rosa Therapeutics
+    sources:
+      - icims: https://careers-monterosatx.icims.com
     group: 바이오텍·제약
     careers: [https://www.monterosatx.com/careers/]
 
   - name: Treeline Biosciences
+    sources:
+      - greenhouse: treelinebiosciences
     group: 바이오텍·제약
     careers: [https://treelinebio.com/careers/]
 
   - name: Denali Therapeutics
+    sources:
+      - workday: https://dnli.wd1.myworkdayjobs.com/Discovery
     group: 바이오텍·제약
     careers: [https://denalitherapeutics.com/careers]
 
@@ -205,34 +240,45 @@ companies:
     careers: [https://www.illumina.com/company/careers.html]
 
   - name: Neurocrine Biosciences
+    sources:
+      - workday: https://neurocrine.wd5.myworkdayjobs.com/Neurocrinecareers
     group: 바이오텍·제약
     aliases: [Neurocrine]
     careers: [https://www.neurocrine.com/careers/]
 
   - name: Crinetics Pharmaceuticals
+    sources:
+      - workday: https://crinetics.wd12.myworkdayjobs.com/CrineticsCareers
     group: 바이오텍·제약
     aliases: [Crinetics]
     careers: [https://crinetics.com/careers/]
 
   - name: Vividion Therapeutics
+    manual_url: https://vividion.com/careers/
     group: 바이오텍·제약
     aliases: [Vividion]
     careers: [https://www.vividion.com/careers/]
 
   - name: MacroGenics
+    manual_url: https://recruiting.ultipro.com/MAC1011MGEN/JobBoard/89a052a3-e089-4f02-bcf1-3175048463c9/
     group: 바이오텍·제약
     careers: [https://macrogenics.com/careers/]
 
   - name: Arcellx
+    sources:
+      - greenhouse: arcellx
     group: 바이오텍·제약
     careers: [https://arcellx.com/careers/]
 
   - name: United Therapeutics
+    sources:
+      - workday: https://vhr-unither.wd5.myworkdayjobs.com/External
     group: 바이오텍·제약
     careers: [https://www.unither.com/careers]
 
   # ---------------- 연구소 · 대학 ----------------
   - name: Broad Institute
+    manual_url: https://broadinstitute.avature.net/careers
     group: 연구소·대학
     aliases: [Broad Institute of MIT and Harvard]
     careers: [https://www.broadinstitute.org/careers]
@@ -247,6 +293,7 @@ companies:
     careers: [https://www.czbiohub.org/careers/]
 
   - name: Whitehead Institute
+    manual_url: https://wi.mit.edu/about/jobs
     group: 연구소·대학
     careers: [https://wi.mit.edu/careers]
 
@@ -256,37 +303,45 @@ companies:
     careers: [https://careers.dana-farber.org/]
 
   - name: MIT
+    manual_url: https://careers.peopleclick.com/careerscp/client_mit/external/search.do
     group: 연구소·대학
     aliases: [Massachusetts Institute of Technology]
     careers: [https://careers.mit.edu/]
 
   - name: Harvard University
+    sources:
+      - smartrecruiters: HarvardUniversity
     group: 연구소·대학
     aliases: [Harvard Medical School, Harvard]
     careers: [https://hr.harvard.edu/search-jobs]
     manual_url: https://hr.harvard.edu/search-jobs
 
   - name: Stanford University
+    manual_url: https://careersearch.stanford.edu/
     group: 연구소·대학
     aliases: [Stanford, Stanford Medicine]
     careers: [https://careersearch.stanford.edu/]
 
   - name: UCSF
+    manual_url: https://careers.ucsf.edu/careers/SearchJobs
     group: 연구소·대학
     aliases: [University of California San Francisco]
     careers: [https://ucsf.wd5.myworkdayjobs.com/UCSF_Jobs]
 
   - name: UC San Diego
+    manual_url: https://employment.ucsd.edu/jobs
     group: 연구소·대학
     aliases: [UCSD, University of California San Diego]
     careers: [https://employment.ucsd.edu/]
 
   - name: UC Berkeley
+    manual_url: https://jobs.berkeley.edu/job-listings/external-applicants
     group: 연구소·대학
     aliases: [Berkeley, University of California Berkeley]
     careers: [https://jobs.berkeley.edu/]
 
   - name: Lawrence Berkeley National Laboratory
+    manual_url: https://jobs.lbl.gov/
     group: 연구소·대학
     aliases: [LBNL, Berkeley Lab]
     careers: [https://jobs.lbl.gov/]
@@ -299,25 +354,30 @@ companies:
     careers: [https://www.llnl.gov/join-our-team/careers/find-your-job]
 
   - name: Scripps Research
+    manual_url: https://recruiting2.ultipro.com/SCR1003TSRI/JobBoard/98759e7d-7ede-4c0b-ac7b-2c6293c7b522/
     group: 연구소·대학
     aliases: [The Scripps Research Institute, TSRI]
     careers: [https://www.scripps.edu/careers/]
 
   - name: Salk Institute
+    manual_url: https://recruiting2.ultipro.com/SAL1013SIBS/JobBoard/e9f055e1-a105-4f91-9a67-21aea61655fa
     group: 연구소·대학
     careers: [https://www.salk.edu/careers/]
 
   - name: Sanford Burnham Prebys
+    manual_url: https://www.sbpdiscovery.org/careers
     group: 연구소·대학
     aliases: [Sanford Burnham]
     careers: [https://www.sbpdiscovery.org/careers]
 
   - name: J. Craig Venter Institute
+    manual_url: https://www.jcvi.org/careers
     group: 연구소·대학
     aliases: [JCVI, Craig Venter]
     careers: [https://www.jcvi.org/careers]
 
   - name: Johns Hopkins University
+    manual_url: https://hiring.jhu.edu/careers
     group: 연구소·대학
     aliases: [Johns Hopkins, JHU, Johns Hopkins Medicine]
     careers: [https://jobs.jhu.edu/]
@@ -328,6 +388,7 @@ companies:
     careers: [https://ejobs.umd.edu/]
 
   - name: Frederick National Laboratory
+    manual_url: https://leidosbiomed.csodfed.com/ux/ats/careersite/4/home?c=leidosbiomed
     group: 연구소·대학
     aliases: [Leidos Biomedical Research, Frederick National Lab]
     careers: [https://frederick.cancer.gov/careers]
