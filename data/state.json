@@ -335,7 +335,39 @@
   "Adzuna:5894851653": "2026-09-23",
   "bioinformaticsscientist|vivohealthst|boston": "2026-09-23",
   "metaphorebiotechnologiesanalyticalcharacterizationproteinsciencecoop|flagshippion|boston": "2026-09-23",
-  "Adzuna:5895200542": "2026-09-23"
+  "Adzuna:5895200542": "2026-09-23",
+  "Adzuna:5895712430": "2026-09-24",
+  "scientistcomputationalbiology|myome|sfbayarea": "2026-09-24",
+  "seniordeveloperrelationsleadaienableddrugdiscoveryscience|nvidia|sfbayarea": "2026-09-24",
+  "Adzuna:5895621175": "2026-09-24",
+  "computationalbiologistacademicgraduateappointee|llnl|sfbayarea": "2026-09-24",
+  "Adzuna:5895668665": "2026-09-24",
+  "Adzuna:5895613488": "2026-09-24",
+  "bioinformaticsscientistbiostatisticiancontractor|myome|sfbayarea": "2026-09-24",
+  "seniorbioinformaticsscientist|lab|sfbayarea": "2026-09-24",
+  "Adzuna:5896667148": "2026-09-24",
+  "bioinformaticsengineer|pilgrim|sfbayarea": "2026-09-24",
+  "Adzuna:5896754942": "2026-09-24",
+  "Adzuna:5896479127": "2026-09-24",
+  "tenuretrackassistantprofessorincomputersciencebioinformatics|bioinformati|sfbayarea": "2026-09-24",
+  "Adzuna:5895638724": "2026-09-24",
+  "bioinformaticsprogrammeri|ucsf|sfbayarea": "2026-09-24",
+  "Adzuna:5896768680": "2026-09-24",
+  "bioinformaticsprogrammeri|universityof|sfbayarea": "2026-09-24",
+  "Adzuna:5895689145": "2026-09-24",
+  "staffbioinformaticsscientist|abbott|sandiego": "2026-09-24",
+  "postdoctoralresearchfellowcomputationalbiologyghobriallab|danafarberca|boston": "2026-09-24",
+  "Adzuna:5895823373": "2026-09-24",
+  "bioinformaticianfulltime|foundationme|boston": "2026-09-24",
+  "Adzuna:5895626178": "2026-09-24",
+  "associatedirectoraifordiscoverynewtargetdiscovery|astrazeneca|boston": "2026-09-24",
+  "Adzuna:5895628760": "2026-09-24",
+  "Adzuna:5896723094": "2026-09-24",
+  "seniorscientistcomputationalchemistry|otsukaameric|boston": "2026-09-24",
+  "associatedirectorcomputationalchemistry|otsukaameric|boston": "2026-09-24",
+  "Adzuna:5896723096": "2026-09-24",
+  "principalscientistaireasoningfordrugdiscovery|johnsonjohns|boston": "2026-09-24",
+  "Adzuna:5895626681": "2026-09-24"
  },
  "jsearch_last_run": "2026-09-23T15:41:39.013029+00:00",
  "jsearch_turn": 3,
@@ -571,7 +603,7 @@
    "source": "",
    "count": 0,
    "error": "greenhouse: Greenhouse HTTP 404",
-   "seconds": 1,
+   "seconds": 0,
    "in_metro": 0,
    "other_locations": []
   },
@@ -607,7 +639,7 @@
    "source": "",
    "count": 0,
    "error": "greenhouse: Greenhouse HTTP 404",
-   "seconds": 5,
+   "seconds": 27,
    "in_metro": 0,
    "other_locations": []
   },
@@ -715,7 +747,7 @@
    "via": "phenom",
    "source": "https://careers.gene.com/us/en",
    "count": 21,
-   "seconds": 375,
+   "seconds": 360,
    "in_metro": 21,
    "other_locations": []
   },
@@ -726,7 +758,7 @@
    "via": "workday",
    "source": "https://modernatx.wd1.myworkdayjobs.com/M_tx",
    "count": 2,
-   "seconds": 22,
+   "seconds": 28,
    "in_metro": 2,
    "other_locations": []
   },
@@ -737,7 +769,7 @@
    "via": "workday",
    "source": "https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers",
    "count": 0,
-   "seconds": 16,
+   "seconds": 15,
    "in_metro": 0,
    "other_locations": []
   },
@@ -771,7 +803,7 @@
    "source": "",
    "count": 0,
    "error": "radancy: Radancy 결과 0건 (형식 확인 필요)",
-   "seconds": 19,
+   "seconds": 18,
    "in_metro": 0,
    "other_locations": []
   },
@@ -783,7 +815,7 @@
    "source": "",
    "count": 0,
    "error": "radancy: Radancy 결과 0건 (형식 확인 필요)",
-   "seconds": 21,
+   "seconds": 20,
    "in_metro": 0,
    "other_locations": []
   },
@@ -805,7 +837,7 @@
    "via": "workday",
    "source": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers",
    "count": 0,
-   "seconds": 18,
+   "seconds": 17,
    "in_metro": 0,
    "other_locations": []
   },
@@ -816,7 +848,7 @@
    "via": "workday",
    "source": "https://amgen.wd1.myworkdayjobs.com/Careers",
    "count": 2,
-   "seconds": 25,
+   "seconds": 24,
    "in_metro": 1,
    "other_locations": [
     "India - Hyderabad"
@@ -839,12 +871,10 @@
    "status": "ok",
    "via": "phenom",
    "source": "https://careers.lilly.com/us/en",
-   "count": 2,
+   "count": 1,
    "seconds": 362,
-   "in_metro": 0,
-   "other_locations": [
-    "Indianapolis, Indiana"
-   ]
+   "in_metro": 1,
+   "other_locations": []
   },
   {
    "name": "Merck",
@@ -853,7 +883,7 @@
    "via": "workday",
    "source": "https://msd.wd5.myworkdayjobs.com/SearchJobs",
    "count": 0,
-   "seconds": 18,
+   "seconds": 15,
    "in_metro": 0,
    "other_locations": []
   },
@@ -864,7 +894,7 @@
    "via": "workday",
    "source": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers",
    "count": 2,
-   "seconds": 16,
+   "seconds": 18,
    "in_metro": 0,
    "other_locations": [
     "Frankfurt am Main",
@@ -878,7 +908,7 @@
    "via": "workday",
    "source": "https://jj.wd5.myworkdayjobs.com/JJ",
    "count": 0,
-   "seconds": 21,
+   "seconds": 18,
    "in_metro": 0,
    "other_locations": []
   },
@@ -912,7 +942,7 @@
    "source": "",
    "count": 0,
    "error": "icims: iCIMS 결과 0건 (형식 확인 필요)",
-   "seconds": 17,
+   "seconds": 18,
    "in_metro": 0,
    "other_locations": []
   },
@@ -935,7 +965,7 @@
    "source": "",
    "count": 0,
    "error": "workday: Workday 결과 0건 (사이트 이름 확인 필요)",
-   "seconds": 21,
+   "seconds": 19,
    "in_metro": 0,
    "other_locations": []
   },
@@ -979,7 +1009,7 @@
    "via": "workday",
    "source": "https://illumina.wd1.myworkdayjobs.com/illumina-careers",
    "count": 0,
-   "seconds": 17,
+   "seconds": 18,
    "in_metro": 0,
    "other_locations": []
   },
@@ -990,7 +1020,7 @@
    "via": "workday",
    "source": "https://neurocrine.wd5.myworkdayjobs.com/Neurocrinecareers",
    "count": 0,
-   "seconds": 18,
+   "seconds": 16,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1014,7 +1044,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 6,
+   "seconds": 2,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1026,7 +1056,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 1,
+   "seconds": 4,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1038,7 +1068,7 @@
    "source": "",
    "count": 0,
    "error": "greenhouse: Greenhouse HTTP 404",
-   "seconds": 3,
+   "seconds": 1,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1123,7 +1153,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 6,
+   "seconds": 3,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1133,9 +1163,9 @@
    "status": "ok",
    "via": "smartrecruiters",
    "source": "HarvardUniversity",
-   "count": 2,
+   "count": 1,
    "seconds": 1,
-   "in_metro": 2,
+   "in_metro": 1,
    "other_locations": []
   },
   {
@@ -1170,7 +1200,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 6,
+   "seconds": 4,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1194,7 +1224,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 3,
+   "seconds": 1,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1217,7 +1247,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 1,
+   "seconds": 0,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1229,7 +1259,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 0,
+   "seconds": 1,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1241,7 +1271,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 4,
+   "seconds": 3,
    "in_metro": 0,
    "other_locations": []
   },
@@ -1288,7 +1318,7 @@
    "source": "",
    "count": 0,
    "error": "채용 시스템을 찾지 못함",
-   "seconds": 6,
+   "seconds": 5,
    "in_metro": 0,
    "other_locations": []
   }
@@ -1345,7 +1375,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Xaira Therapeutics"
   },
@@ -1511,7 +1541,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -1530,7 +1560,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "연구소·대학",
    "company_key": "Arc Institute"
   },
@@ -1548,7 +1578,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Denali Therapeutics"
   },
@@ -1585,7 +1615,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -1605,7 +1635,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "연구소·대학",
    "company_key": "Arc Institute"
   },
@@ -1696,7 +1726,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Eli Lilly"
   },
@@ -1715,7 +1745,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Lila Sciences"
   },
@@ -1734,7 +1764,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -1753,7 +1783,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Lila Sciences"
   },
@@ -1772,7 +1802,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Lila Sciences"
   },
@@ -1791,7 +1821,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -1828,7 +1858,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Lila Sciences"
   },
@@ -1847,7 +1877,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Lila Sciences"
   },
@@ -1866,7 +1896,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Lila Sciences"
   },
@@ -1903,7 +1933,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -1921,7 +1951,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "",
    "company_key": null
   },
@@ -1940,7 +1970,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -2139,7 +2169,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Octant Bio"
   },
@@ -2248,7 +2278,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Tessera Therapeutics"
   },
@@ -2267,7 +2297,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "",
    "company_key": null
   },
@@ -2285,7 +2315,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "",
    "company_key": null
   },
@@ -2357,7 +2387,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Takeda"
   },
@@ -2447,7 +2477,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Moderna"
   },
@@ -2465,7 +2495,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "",
    "company_key": null
   },
@@ -2483,7 +2513,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "",
    "company_key": null
   },
@@ -2592,7 +2622,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-19",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Eli Lilly"
   },
@@ -2610,7 +2640,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Takeda"
   },
@@ -2647,7 +2677,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Ginkgo Bioworks"
   },
@@ -2705,7 +2735,7 @@
    ],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "",
    "company_key": null
   },
@@ -2725,7 +2755,7 @@
    ],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "",
    "company_key": null
   },
@@ -2923,7 +2953,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Generate Biomedicines"
   },
@@ -2941,7 +2971,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Genesis Therapeutics"
   },
@@ -2959,7 +2989,7 @@
    "flags": [],
    "remote": true,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Iambic Therapeutics"
   },
@@ -2977,7 +3007,7 @@
    "flags": [],
    "remote": true,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Iambic Therapeutics"
   },
@@ -2995,7 +3025,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Lila Sciences"
   },
@@ -3013,7 +3043,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Lila Sciences"
   },
@@ -3031,7 +3061,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Lila Sciences"
   },
@@ -3049,7 +3079,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Lila Sciences"
   },
@@ -3067,7 +3097,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Lila Sciences"
   },
@@ -3085,7 +3115,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Lila Sciences"
   },
@@ -3103,7 +3133,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -3121,7 +3151,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -3139,7 +3169,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -3158,7 +3188,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -3176,7 +3206,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -3194,7 +3224,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -3212,7 +3242,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -3230,7 +3260,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -3248,7 +3278,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -3266,7 +3296,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -3284,7 +3314,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -3303,7 +3333,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -3321,7 +3351,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -3339,7 +3369,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -3357,7 +3387,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Genentech"
   },
@@ -3375,7 +3405,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Amgen"
   },
@@ -3393,7 +3423,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "연구소·대학",
    "company_key": "Chan Zuckerberg Biohub"
   },
@@ -3411,7 +3441,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "연구소·대학",
    "company_key": "Lawrence Livermore National Laboratory"
   },
@@ -3430,7 +3460,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Illumina"
   },
@@ -3469,7 +3499,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Nabla Bio"
   },
@@ -3487,7 +3517,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Takeda"
   },
@@ -3505,7 +3535,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Illumina"
   },
@@ -3523,7 +3553,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Vividion Therapeutics"
   },
@@ -3541,7 +3571,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Xaira Therapeutics"
   },
@@ -3554,12 +3584,13 @@
    "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5036777007",
    "posted": "2026-09-15",
    "sources": [
+    "Adzuna",
     "회사/greenhouse"
    ],
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Xaira Therapeutics"
   },
@@ -3577,7 +3608,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Xaira Therapeutics"
   },
@@ -3595,7 +3626,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Profluent Bio"
   },
@@ -3613,7 +3644,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "AI·단백질설계",
    "company_key": "Profluent Bio"
   },
@@ -3631,7 +3662,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Moderna"
   },
@@ -3667,7 +3698,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "연구소·대학",
    "company_key": "Harvard University"
   },
@@ -3687,7 +3718,7 @@
    ],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "",
    "company_key": null
   },
@@ -3707,7 +3738,7 @@
    ],
    "remote": false,
    "first_seen": "2026-09-19",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "",
    "company_key": null
   },
@@ -3943,7 +3974,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-21",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "",
    "company_key": null
   },
@@ -4034,7 +4065,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-22",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Twist Bioscience"
   },
@@ -4052,7 +4083,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-22",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "",
    "company_key": null
   },
@@ -4070,7 +4101,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-22",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "",
    "company_key": null
   },
@@ -4089,7 +4120,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-22",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Moderna"
   },
@@ -4102,12 +4133,13 @@
    "url": "https://jobs.smartrecruiters.com/LLNL/3743990015558392",
    "posted": "2026-09-22",
    "sources": [
+    "Adzuna",
     "회사/smartrecruiters"
    ],
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-22",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "연구소·대학",
    "company_key": "Lawrence Livermore National Laboratory"
   },
@@ -4251,7 +4283,7 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-23",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "바이오텍·제약",
    "company_key": "Revolution Medicines"
   },
@@ -4287,9 +4319,261 @@
    "flags": [],
    "remote": false,
    "first_seen": "2026-09-23",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "group": "",
    "company_key": null
+  },
+  "scientistcomputationalbiology|myome|sfbayarea": {
+   "id": "scientistcomputationalbiology|myome|sfbayarea",
+   "title": "Scientist, Computational Biology",
+   "company": "MyOme",
+   "location": "Menlo Park, San Mateo County, California",
+   "metro": "SF Bay Area",
+   "url": "https://www.adzuna.com/land/ad/5895712430?se=oC44ZzG48RGqqJ23Mt790Q&utm_medium=api&utm_source=d677d981&v=62F19FCFB45FE12B45D5834BFB9D16801148EDBA",
+   "posted": "2026-09-23",
+   "sources": [
+    "Adzuna"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "group": "",
+   "company_key": null
+  },
+  "seniordeveloperrelationsleadaienableddrugdiscoveryscience|nvidia|sfbayarea": {
+   "id": "seniordeveloperrelationsleadaienableddrugdiscoveryscience|nvidia|sfbayarea",
+   "title": "Senior Developer Relations Lead, AI-Enabled Drug Discovery Science",
+   "company": "NVIDIA",
+   "location": "Santa Clara, Santa Clara County, California",
+   "metro": "SF Bay Area",
+   "url": "https://www.adzuna.com/land/ad/5895621175?se=oC44ZzG48RGqqJ23Mt790Q&utm_medium=api&utm_source=d677d981&v=B090AC886B504CBD98B26D95A95054F45648F227",
+   "posted": "2026-09-23",
+   "sources": [
+    "Adzuna"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "group": "",
+   "company_key": null
+  },
+  "bioinformaticsscientistbiostatisticiancontractor|myome|sfbayarea": {
+   "id": "bioinformaticsscientistbiostatisticiancontractor|myome|sfbayarea",
+   "title": "Bioinformatics Scientist/Biostatistician Contractor",
+   "company": "MyOme",
+   "location": "Menlo Park, San Mateo County, California",
+   "metro": "SF Bay Area",
+   "url": "https://www.adzuna.com/land/ad/5895613488?se=oC44ZzG48RGqqJ23Mt790Q&utm_medium=api&utm_source=d677d981&v=EF8664D90ACFA1D30786BDAF7B76323EA96BD328",
+   "posted": "2026-09-23",
+   "sources": [
+    "Adzuna"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "group": "",
+   "company_key": null
+  },
+  "seniorbioinformaticsscientist|lab|sfbayarea": {
+   "id": "seniorbioinformaticsscientist|lab|sfbayarea",
+   "title": "Sr. Bioinformatics Scientist",
+   "company": "Labcorp",
+   "location": "SoMa, San Francisco, California",
+   "metro": "SF Bay Area",
+   "url": "https://www.adzuna.com/land/ad/5896667148?se=oC44ZzG48RGqqJ23Mt790Q&utm_medium=api&utm_source=d677d981&v=E954DBBBC90FFB8E7E7187E2E4244ADFE94BDF57",
+   "posted": "2026-09-24",
+   "sources": [
+    "Adzuna"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "group": "",
+   "company_key": null
+  },
+  "bioinformaticsengineer|pilgrim|sfbayarea": {
+   "id": "bioinformaticsengineer|pilgrim|sfbayarea",
+   "title": "Bioinformatics Engineer",
+   "company": "Pilgrim",
+   "location": "Redwood City, San Mateo County, California",
+   "metro": "SF Bay Area",
+   "url": "https://www.adzuna.com/details/5896754942?utm_medium=api&utm_source=d677d981",
+   "posted": "2026-09-24",
+   "sources": [
+    "Adzuna"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "group": "",
+   "company_key": null
+  },
+  "tenuretrackassistantprofessorincomputersciencebioinformatics|bioinformati|sfbayarea": {
+   "id": "tenuretrackassistantprofessorincomputersciencebioinformatics|bioinformati|sfbayarea",
+   "title": "Tenure Track Assistant Professor in Computer Science - Bioinformatics",
+   "company": "Bioinformatics",
+   "location": "San Jose, Santa Clara County, California",
+   "metro": "SF Bay Area",
+   "url": "https://www.adzuna.com/details/5896479127?utm_medium=api&utm_source=d677d981",
+   "posted": "2026-09-24",
+   "sources": [
+    "Adzuna"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "group": "",
+   "company_key": null
+  },
+  "bioinformaticsprogrammeri|ucsf|sfbayarea": {
+   "id": "bioinformaticsprogrammeri|ucsf|sfbayarea",
+   "title": "Bioinformatics Programmer I",
+   "company": "UCSF",
+   "location": "South San Francisco, San Mateo County, California",
+   "metro": "SF Bay Area",
+   "url": "https://www.adzuna.com/land/ad/5895638724?se=ijN6cjG48RG_LevdjZ8dqA&utm_medium=api&utm_source=d677d981&v=AD730BB257D264556A4B1BFCF523CCB439E442A3",
+   "posted": "2026-09-23",
+   "sources": [
+    "Adzuna"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "group": "연구소·대학",
+   "company_key": "UCSF"
+  },
+  "staffbioinformaticsscientist|abbott|sandiego": {
+   "id": "staffbioinformaticsscientist|abbott|sandiego",
+   "title": "Staff Bioinformatics Scientist",
+   "company": "Abbott",
+   "location": "San Diego, San Diego County, California",
+   "metro": "San Diego",
+   "url": "https://www.adzuna.com/land/ad/5895689145?se=kkAcdTG48RGqqJ23Mt790Q&utm_medium=api&utm_source=d677d981&v=CF92233992C1FFE5556EA13AC0DA144A51EEDC63",
+   "posted": "2026-09-23",
+   "sources": [
+    "Adzuna"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "group": "",
+   "company_key": null
+  },
+  "postdoctoralresearchfellowcomputationalbiologyghobriallab|danafarberca|boston": {
+   "id": "postdoctoralresearchfellowcomputationalbiologyghobriallab|danafarberca|boston",
+   "title": "Postdoctoral Research Fellow - Computational Biology - Ghobrial Lab",
+   "company": "Dana-Farber Cancer Institute",
+   "location": "Boston, Suffolk County, Massachusetts",
+   "metro": "Boston",
+   "url": "https://www.adzuna.com/details/5895823373?utm_medium=api&utm_source=d677d981",
+   "posted": "2026-09-23",
+   "sources": [
+    "Adzuna"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "group": "연구소·대학",
+   "company_key": "Dana-Farber Cancer Institute"
+  },
+  "bioinformaticianfulltime|foundationme|boston": {
+   "id": "bioinformaticianfulltime|foundationme|boston",
+   "title": "Bioinformatician Full-time",
+   "company": "Foundation Medicine",
+   "location": "Boston, Suffolk County, Massachusetts",
+   "metro": "Boston",
+   "url": "https://www.adzuna.com/land/ad/5895626178?se=xiVCgTG48RGqqJ23Mt790Q&utm_medium=api&utm_source=d677d981&v=F70131417E0398AEF78C7FE9931982A976205807",
+   "posted": "2026-09-23",
+   "sources": [
+    "Adzuna"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "group": "",
+   "company_key": null
+  },
+  "associatedirectoraifordiscoverynewtargetdiscovery|astrazeneca|boston": {
+   "id": "associatedirectoraifordiscoverynewtargetdiscovery|astrazeneca|boston",
+   "title": "Associate Director, AI for Discovery — New Target Discovery",
+   "company": "AstraZeneca",
+   "location": "Cambridge, Middlesex County, Massachusetts",
+   "metro": "Boston",
+   "url": "https://www.adzuna.com/land/ad/5895628760?se=xiVCgTG48RGqqJ23Mt790Q&utm_medium=api&utm_source=d677d981&v=86BCFE72199D56CB703A02157C89B2A0FFFB1253",
+   "posted": "2026-09-23",
+   "sources": [
+    "Adzuna"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "group": "바이오텍·제약",
+   "company_key": "AstraZeneca"
+  },
+  "seniorscientistcomputationalchemistry|otsukaameric|boston": {
+   "id": "seniorscientistcomputationalchemistry|otsukaameric|boston",
+   "title": "Senior Scientist, Computational Chemistry",
+   "company": "Otsuka America Pharmaceutical Inc.",
+   "location": "Boston, Suffolk County, Massachusetts",
+   "metro": "Boston",
+   "url": "https://www.adzuna.com/land/ad/5896723094?se=JsfvizG48RG_LevdjZ8dqA&utm_medium=api&utm_source=d677d981&v=06BF91AE58DB5B756159C62E589A55967F8ECE46",
+   "posted": "2026-09-24",
+   "sources": [
+    "Adzuna"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "group": "",
+   "company_key": null
+  },
+  "associatedirectorcomputationalchemistry|otsukaameric|boston": {
+   "id": "associatedirectorcomputationalchemistry|otsukaameric|boston",
+   "title": "Associate Director, Computational Chemistry",
+   "company": "Otsuka America Pharmaceutical Inc.",
+   "location": "Boston, Suffolk County, Massachusetts",
+   "metro": "Boston",
+   "url": "https://www.adzuna.com/land/ad/5896723096?se=JsfvizG48RG_LevdjZ8dqA&utm_medium=api&utm_source=d677d981&v=073D2C6DDE85510894B938E802F4CB6DB2653C32",
+   "posted": "2026-09-24",
+   "sources": [
+    "Adzuna"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "group": "",
+   "company_key": null
+  },
+  "principalscientistaireasoningfordrugdiscovery|johnsonjohns|boston": {
+   "id": "principalscientistaireasoningfordrugdiscovery|johnsonjohns|boston",
+   "title": "Principal Scientist - AI-Reasoning for Drug Discovery",
+   "company": "Johnson & Johnson",
+   "location": "Cambridge, Middlesex County, Massachusetts",
+   "metro": "Boston",
+   "url": "https://www.adzuna.com/land/ad/5895626681?se=vvOn9TG48RG_LevdjZ8dqA&utm_medium=api&utm_source=d677d981&v=DA6270791B9BAFCA3D45AE4B2A0C44BC75BD7F6C",
+   "posted": "2026-09-23",
+   "sources": [
+    "Adzuna"
+   ],
+   "flags": [],
+   "remote": false,
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "group": "바이오텍·제약",
+   "company_key": "Johnson & Johnson"
   }
  },
  "backfilled": "2026-09-19",
