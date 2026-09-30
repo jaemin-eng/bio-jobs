@@ -1,31 +1,29 @@
-# 새 RF/Antenna/EMC 공고 — 2026-09-29 17:23
+# 새 RF/Antenna/EMC 공고 — 2026-09-30 17:20
 
-총 **8건**
+총 **11건**
 
-## Boston (2)
-
-| 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
-|---|---|---|---|---|---|
-| 2026-09-28 | [AI Product Lead (Drug Discovery)](https://www.adzuna.com/details/5902306651?utm_medium=api&utm_source=d677d981) | EPM Scientific | Boston, Suffolk County, Massachusetts | Adzuna |  |
-| 2026-09-24 | [Computational Chemistry Postdoc: AI-Driven Chemical Design](https://www.jobleads.com/us/job/computational-chemistry-postdoc-ai-driven-chemical-design--waltham--e7d29ba96e8397d01a40f2e728985e6d7) | Computational Chemistry List Home | Waltham, MA | JSearch/JobLeads |  |
-
-## SF Bay Area (3)
+## Boston (5)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-09-28 | [Principal Scientist, Antibody Discovery Innovation](https://www.adzuna.com/land/ad/5901508937?se=sLadIim88RG5QYXapx_3iw&utm_medium=api&utm_source=d677d981&v=3139C6308C33E33FB0FF3D11EB0508F97E508322) | Merck | South San Francisco, San Mateo County, California | Adzuna |  |
-| 2026-09-28 | [Principal Scientist, Protein Engineering](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5250920007) | Xaira Therapeutics | South San Francisco, California | 회사/greenhouse |  |
-| 2026-09-25 | [ML & Molecular Simulation Scientist](https://www.linkedin.com/jobs/view/ml-molecular-simulation-scientist-at-genesis-molecular-ai-4426983464) | Genesis Molecular AI | San Mateo, CA | JSearch/LinkedIn |  |
+| 2026-09-30 | [Technical Product Owner, AI-native Large molecule Discovery](https://www.adzuna.com/details/5903493421?utm_medium=api&utm_source=d677d981) | Takeda | Boston, Suffolk County, Massachusetts | Adzuna |  |
+| 2026-09-30 | [Sr. Research Associate, Protein Design](https://www.adzuna.com/details/5903436342?utm_medium=api&utm_source=d677d981) | Moderna | Cambridge, Middlesex County, Massachusetts | Adzuna |  |
+| 2026-09-30 | [Flagship Labs 117: Generative Chemistry Co-Op](https://www.adzuna.com/details/5903625312?utm_medium=api&utm_source=d677d981) | Flagship Pioneering | Cambridge, Middlesex County, Massachusetts | Adzuna |  |
+| 2026-09-30 | [AI/ML Biopharma Deployment Consultant (contract)](https://www.adzuna.com/details/5903999321?utm_medium=api&utm_source=d677d981) | Atrium Works | South Boston, Suffolk County, Massachusetts | Adzuna |  |
+| 2026-09-29 | [Scientist II, Computational Biology, AI & Multimodal Target Discovery](https://www.adzuna.com/details/5903106305?utm_medium=api&utm_source=d677d981) | PharmaEssentia U.S.A. | Bedford, Middlesex County, Massachusetts | Adzuna |  |
 
-## San Diego (2)
-
-| 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
-|---|---|---|---|---|---|
-| 2026-09-27 | [Pharma Computational Chemist - Onsite, Relocation Available](https://www.jobleads.com/us/job/pharma-computational-chemist-onsite-relocation-available--san-diego--eb4453baf5f9deff80aff5c11eb32d5a6) | Cogent Scientific | San Diego, CA | JSearch/JobLeads |  |
-| 2026-09-23 | [Computational Chemistry Scientist - Drug Discovery](https://www.jobilize.com/job/us-ca-san-diego-computational-chemistry-scientist-drug-discovery-energy) | Energy Jobline ZR | San Diego, CA | JSearch/Jobilize |  |
-
-## Washington DC (1)
+## SF Bay Area (5)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-09-24 | [26.09.23 Computational Chemistry Postdoc](https://www.jobleads.com/us/job/26-09-23-computational-chemistry-postdoc--washington--northern--e5c7be95f69a157c776545163ab1fa69f) | Computational Chemistry List, Ltd | Washington, DC | JSearch/JobLeads |  |
+| 2026-09-30 | [Scientist, Computational Biology](https://www.adzuna.com/details/5903678736?utm_medium=api&utm_source=d677d981) | Eikon Therapeutics | Millbrae, San Mateo County, California | Adzuna |  |
+| 2026-09-30 | [Assistant Professor of Pathology, Research (Structural and Computational Biology)](https://www.adzuna.com/details/5903881606?utm_medium=api&utm_source=d677d981) | Stanford University | Palo Alto, Santa Clara County, California | Adzuna |  |
+| 2026-09-30 | [Computational Chemist - Fully Remote / Upto $70/hr](https://www.adzuna.com/land/ad/5904103282?se=nF4vevG88RG5W_OotpWUug&utm_medium=api&utm_source=d677d981&v=09F4326503E21DD00C02981A0ACFDD4C88C8CC61) | Mercor | San Francisco, California | Adzuna |  |
+| 2026-09-30 | [Protein Expression Scientist - Temp](https://www.adzuna.com/land/ad/5904100941?se=4MVfxvG88RGwgaviw0YlUg&utm_medium=api&utm_source=d677d981&v=2A512352FA0CF02B2A27FC58389D8D6AC2C7C226) | System One | Alameda, Alameda County, California | Adzuna |  |
+| 2026-09-28 | [Machine Learning Scientist/Senior Machine Learning Scientist - Agents for Applied Small Molecule Drug Design, AI for Drug Discovery](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/San-Francisco/Machine-Learning-Scientist---Agents-for-Applied-Small-Molecule-Drug-Design_202606-115525-1/apply) | Genentech | San Francisco, California / New York City, New York | 회사/phenom |  |
+
+## San Diego (1)
+
+| 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
+|---|---|---|---|---|---|
+| 2026-09-29 | [Bioinformatics Engineer](https://www.adzuna.com/land/ad/5903349106?se=Ctjhe_G88RGwgaviw0YlUg&utm_medium=api&utm_source=d677d981&v=9AFCF0218FD8408C548EE8C2222D28C137128FDA) | OMG Technologies | San Diego, San Diego County, California | Adzuna |  |
