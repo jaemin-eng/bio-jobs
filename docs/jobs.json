@@ -1,6 +1,114 @@
 {
-"updated": "2026-10-13T18:49:16+00:00",
+"updated": "2026-10-14T16:19:02+00:00",
 "jobs": [
+{
+"id": "computationalbiologistfullyremote|mercor|sfbayarea",
+"title": "Computational Biologist - Fully Remote",
+"company": "Mercor",
+"location": "San Francisco, California",
+"metro": "SF Bay Area",
+"url": "https://www.adzuna.com/details/5927464350?utm_medium=api&utm_source=d677d981",
+"posted": "2026-10-14",
+"sources": [
+"Adzuna"
+],
+"flags": [],
+"remote": false,
+"first_seen": "2026-10-14",
+"last_seen": "2026-10-14",
+"group": "",
+"company_key": null
+},
+{
+"id": "bioinformaticsprogrammer5|ucsf|sfbayarea",
+"title": "Bioinformatics Programmer 5",
+"company": "UCSF",
+"location": "San Francisco, California",
+"metro": "SF Bay Area",
+"url": "https://www.adzuna.com/details/5926955652?utm_medium=api&utm_source=d677d981",
+"posted": "2026-10-14",
+"sources": [
+"Adzuna"
+],
+"flags": [],
+"remote": false,
+"first_seen": "2026-10-14",
+"last_seen": "2026-10-14",
+"group": "연구소·대학",
+"company_key": "UCSF"
+},
+{
+"id": "postdoctoralresearchfellowcomputationalbiologistgillanilab|danafarberca|boston",
+"title": "Postdoctoral Research Fellow - Computational Biologist - Gillani Lab",
+"company": "Dana-Farber Cancer Institute",
+"location": "South Boston, Suffolk County, Massachusetts",
+"metro": "Boston",
+"url": "https://www.adzuna.com/details/5926861021?utm_medium=api&utm_source=d677d981",
+"posted": "2026-10-14",
+"sources": [
+"Adzuna"
+],
+"flags": [],
+"remote": false,
+"first_seen": "2026-10-14",
+"last_seen": "2026-10-14",
+"group": "연구소·대학",
+"company_key": "Dana-Farber Cancer Institute"
+},
+{
+"id": "researchassociateiiproteinsciences|flagshippion|boston",
+"title": "Research Associate II, Protein Sciences",
+"company": "Flagship Pioneering",
+"location": "Cambridge, Middlesex County, Massachusetts",
+"metro": "Boston",
+"url": "https://www.adzuna.com/details/5927517270?utm_medium=api&utm_source=d677d981",
+"posted": "2026-10-14",
+"sources": [
+"Adzuna"
+],
+"flags": [],
+"remote": false,
+"first_seen": "2026-10-14",
+"last_seen": "2026-10-14",
+"group": "",
+"company_key": null
+},
+{
+"id": "scientistcomputationalproteinengineering|mesoscaledia|washingtondc",
+"title": "Scientist, Computational Protein Engineering",
+"company": "MESO SCALE DIAGNOSTICS, LLC.",
+"location": "Rockville, MD",
+"metro": "Washington DC",
+"url": "https://www.linkedin.com/jobs/view/scientist-computational-protein-engineering-at-meso-scale-diagnostics-llc-4476045344",
+"posted": "2026-10-12",
+"sources": [
+"JSearch/LinkedIn"
+],
+"flags": [],
+"remote": false,
+"first_seen": "2026-10-14",
+"last_seen": "2026-10-14",
+"group": "",
+"company_key": null
+},
+{
+"id": "proteinengineeringresearchassociateiiiequity|valoratherap|sandiego",
+"title": "Protein Engineering Research Associate I​/II Equity",
+"company": "Valora Therapeutics, Inc.",
+"location": "San Diego, CA",
+"metro": "San Diego",
+"url": "https://www.learn4good.com/jobs/san-diego/california/research_and_development/5541962458/e/",
+"posted": "2026-10-11",
+"sources": [
+"JSearch/Learn4Good"
+],
+"flags": [],
+"remote": false,
+"first_seen": "2026-10-14",
+"last_seen": "2026-10-14",
+"group": "",
+"company_key": null
+},
 {
 "id": "bioinformaticsdatascientistorpostdoctoralresearcherfurmanlab|buckinstitut|sfbayarea",
 "title": "Bioinformatics & Data Scientist or Postdoctoral Researcher- Furman lab",
@@ -87,7 +195,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-13",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "",
 "company_key": null
 },
@@ -213,7 +321,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-13",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "",
 "company_key": null
 },
@@ -267,7 +375,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-13",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Merck"
 },
@@ -411,7 +519,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-12",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "",
 "company_key": null
 },
@@ -771,7 +879,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-11",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 },
@@ -789,7 +897,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-11",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "10x Genomics"
 },
@@ -807,7 +915,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-11",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "",
 "company_key": null
 },
@@ -843,7 +951,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-11",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "",
 "company_key": null
 },
@@ -897,7 +1005,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-10",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "",
 "company_key": null
 },
@@ -915,7 +1023,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-10",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Merck"
 },
@@ -952,7 +1060,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-10",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Eli Lilly"
 },
@@ -970,7 +1078,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-10",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "연구소·대학",
 "company_key": "Johns Hopkins University"
 },
@@ -1096,7 +1204,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-09",
-"last_seen": "2026-10-12",
+"last_seen": "2026-10-14",
 "group": "",
 "company_key": null
 },
@@ -1153,7 +1261,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-09",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "연구소·대학",
 "company_key": "Lawrence Livermore National Laboratory"
 },
@@ -1640,7 +1748,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-07",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "",
 "company_key": null
 },
@@ -1659,7 +1767,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-07",
-"last_seen": "2026-10-12",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Bristol Myers Squibb"
 },
@@ -1677,7 +1785,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-07",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Moderna"
 },
@@ -1769,7 +1877,7 @@
 ],
 "remote": false,
 "first_seen": "2026-10-07",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "",
 "company_key": null
 },
@@ -1789,7 +1897,7 @@
 ],
 "remote": false,
 "first_seen": "2026-10-07",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "",
 "company_key": null
 },
@@ -1810,7 +1918,7 @@
 ],
 "remote": false,
 "first_seen": "2026-10-07",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "연구소·대학",
 "company_key": "Lawrence Livermore National Laboratory"
 },
@@ -1973,7 +2081,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-07",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Moderna"
 },
@@ -2102,7 +2210,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-07",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Eli Lilly"
 },
@@ -2121,7 +2229,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-07",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Eli Lilly"
 },
@@ -2158,7 +2266,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-06",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Eli Lilly"
 },
@@ -2212,7 +2320,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-06",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "연구소·대학",
 "company_key": "Broad Institute"
 },
@@ -2248,7 +2356,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-06",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "연구소·대학",
 "company_key": "Broad Institute"
 },
@@ -2266,7 +2374,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-06",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "연구소·대학",
 "company_key": "Broad Institute"
 },
@@ -2338,7 +2446,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-06",
-"last_seen": "2026-10-11",
+"last_seen": "2026-10-14",
 "group": "",
 "company_key": null
 },
@@ -2374,7 +2482,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-06",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "연구소·대학",
 "company_key": "Broad Institute"
 },
@@ -2393,7 +2501,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-06",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Illumina"
 },
@@ -2411,7 +2519,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-06",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "연구소·대학",
 "company_key": "Johns Hopkins University"
 },
@@ -2430,7 +2538,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-06",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 },
@@ -2575,7 +2683,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-04",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 },
@@ -2594,7 +2702,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-04",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 },
@@ -3047,7 +3155,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-02",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "연구소·대학",
 "company_key": "Johns Hopkins University"
 },
@@ -3102,7 +3210,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-10-01",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Takeda"
 },
@@ -3375,7 +3483,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-30",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "연구소·대학",
 "company_key": "Stanford University"
 },
@@ -3411,7 +3519,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-30",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Takeda"
 },
@@ -3484,7 +3592,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-30",
-"last_seen": "2026-10-11",
+"last_seen": "2026-10-14",
 "group": "",
 "company_key": null
 },
@@ -3540,7 +3648,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-30",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Moderna"
 },
@@ -3559,7 +3667,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-30",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 },
@@ -3614,7 +3722,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-29",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "AI·단백질설계",
 "company_key": "Xaira Therapeutics"
 },
@@ -3669,7 +3777,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-29",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 },
@@ -3759,7 +3867,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-27",
-"last_seen": "2026-09-28",
+"last_seen": "2026-10-14",
 "group": "",
 "company_key": null
 },
@@ -4013,7 +4121,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-26",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "",
 "company_key": null
 },
@@ -4035,7 +4143,7 @@
 ],
 "remote": false,
 "first_seen": "2026-09-25",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "연구소·대학",
 "company_key": "Lawrence Livermore National Laboratory"
 },
@@ -4075,7 +4183,7 @@
 ],
 "remote": false,
 "first_seen": "2026-09-25",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "연구소·대학",
 "company_key": "Lawrence Livermore National Laboratory"
 },
@@ -5456,7 +5564,7 @@
 ],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-09-22",
+"last_seen": "2026-10-14",
 "group": "",
 "company_key": null
 },
@@ -5511,7 +5619,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 },
@@ -5566,7 +5674,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "AI·단백질설계",
 "company_key": "Tessera Therapeutics"
 },
@@ -5626,24 +5734,6 @@
 "company_key": null
 },
 {
-"id": "computationalbiologistiicellxstate|chanzuckerbe|sfbayarea",
-"title": "Computational Biologist II, CellxState",
-"company": "Chan Zuckerberg Biohub",
-"location": "San Francisco, CA (Hybrid)",
-"metro": "SF Bay Area",
-"url": "https://job-boards.greenhouse.io/biohub/jobs/7712408",
-"posted": "2026-09-18",
-"sources": [
-"회사/greenhouse"
-],
-"flags": [],
-"remote": false,
-"first_seen": "2026-09-19",
-"last_seen": "2026-10-06",
-"group": "연구소·대학",
-"company_key": "Chan Zuckerberg Biohub"
-},
-{
 "id": "proteindesignscientistfullstackdiffusionlabautomation|clera|sfbayarea",
 "title": "Protein Design Scientist: Full-Stack Diffusion & Lab Automation",
 "company": "Clera",
@@ -5677,7 +5767,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "연구소·대학",
 "company_key": "Arc Institute"
 },
@@ -5697,7 +5787,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "연구소·대학",
 "company_key": "Arc Institute"
 },
@@ -5734,7 +5824,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "AI·단백질설계",
 "company_key": "Octant Bio"
 },
@@ -5832,7 +5922,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "AI·단백질설계",
 "company_key": "Xaira Therapeutics"
 },
@@ -5870,7 +5960,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "AI·단백질설계",
 "company_key": "Lila Sciences"
 },
@@ -5889,7 +5979,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "AI·단백질설계",
 "company_key": "Lila Sciences"
 },
@@ -5908,7 +5998,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "AI·단백질설계",
 "company_key": "Lila Sciences"
 },
@@ -5927,7 +6017,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "AI·단백질설계",
 "company_key": "Lila Sciences"
 },
@@ -5946,7 +6036,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "AI·단백질설계",
 "company_key": "Lila Sciences"
 },
@@ -6002,7 +6092,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 },
@@ -6149,7 +6239,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "AI·단백질설계",
 "company_key": "Xaira Therapeutics"
 },
@@ -6168,7 +6258,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "AI·단백질설계",
 "company_key": "Xaira Therapeutics"
 },
@@ -6186,7 +6276,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "AI·단백질설계",
 "company_key": "Xaira Therapeutics"
 },
@@ -6424,7 +6514,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 },
@@ -6461,7 +6551,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "AI·단백질설계",
 "company_key": "Profluent Bio"
 },
@@ -6479,7 +6569,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "AI·단백질설계",
 "company_key": "Profluent Bio"
 },
@@ -6534,7 +6624,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "AI·단백질설계",
 "company_key": "Generate Biomedicines"
 },
@@ -6553,7 +6643,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 },
@@ -6663,7 +6753,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 },
@@ -6702,7 +6792,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "AI·단백질설계",
 "company_key": "Lila Sciences"
 },
@@ -6831,7 +6921,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "",
 "company_key": null
 },
@@ -6868,7 +6958,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "AI·단백질설계",
 "company_key": "Lila Sciences"
 },
@@ -6904,7 +6994,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "AI·단백질설계",
 "company_key": "Lila Sciences"
 },
@@ -7176,7 +7266,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Ginkgo Bioworks"
 },
@@ -7266,7 +7356,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 },
@@ -7392,7 +7482,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 },
@@ -7447,7 +7537,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Amgen"
 },
@@ -7465,7 +7555,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 },
@@ -7483,7 +7573,7 @@
 "flags": [],
 "remote": true,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "AI·단백질설계",
 "company_key": "Iambic Therapeutics"
 },
@@ -7538,7 +7628,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 },
@@ -7556,7 +7646,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 },
@@ -7574,7 +7664,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 },
@@ -7610,7 +7700,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 },
@@ -7628,7 +7718,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 },
@@ -7646,7 +7736,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "AI·단백질설계",
 "company_key": "Genesis Therapeutics"
 },
@@ -7664,7 +7754,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "연구소·대학",
 "company_key": "Lawrence Livermore National Laboratory"
 },
@@ -7682,7 +7772,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 },
@@ -7700,7 +7790,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "연구소·대학",
 "company_key": "Harvard University"
 },
@@ -7718,7 +7808,7 @@
 "flags": [],
 "remote": false,
 "first_seen": "2026-09-19",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "group": "바이오텍·제약",
 "company_key": "Genentech"
 }
