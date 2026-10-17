@@ -1,39 +1,35 @@
-# 새 RF/Antenna/EMC 공고 — 2026-10-16 15:55
+# 새 RF/Antenna/EMC 공고 — 2026-10-17 14:45
 
-총 **16건**
+총 **12건**
 
-## Boston (4)
-
-| 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
-|---|---|---|---|---|---|
-| 2026-10-14 | [Bioinformatics Analyst - Cancer Center (Slabicki/Miller Labs)](https://jobs.digitalhire.com/job-listing/opening/uSmXGY0QlRmPztibibiNl) | Mass General Brigham | Boston, MA | JSearch/Digitalhire |  |
-| 2026-10-13 | [Scientist I - Computational Biology, Systems Immunology](https://careers.abbvie.com/en/job/scientist-i-computational-biology-systems-immunology-in-cambridge-ma-jid-34360) | AbbVie | Cambridge, MA | JSearch/AbbVie Careers |  |
-| 2026-10-13 | [2027 Spring Co-Op Computational Biology & AI, Cambridge, MA](https://www.talent.com/view?id=636486603063952656) | Sanofi | Medford, MA | JSearch/Talent.com |  |
-| 2026-10-10 | [Remote Bioinformatics Scientist](https://us.trabajo.org/job-2998-57f6e1e63fbe1c21a6774eb3bbb05b66) | Vivo HealthStaff | Boston, MA | JSearch/Trabajo.org |  |
-
-## SF Bay Area (4)
+## Boston (2)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-10-15 | [Director/Senior Director, AI/ML for Drug Discovery](https://job-boards.greenhouse.io/septerna/jobs/5454752008) | Septerna | South San Francisco, California | 회사/greenhouse |  |
-| 2026-10-14 | [Scientist / Engineer, Machine Learning / Bioinformatics](https://www.linkedin.com/jobs/view/scientist-engineer-machine-learning-bioinformatics-at-moonwalk-biosciences-4478462920) | Moonwalk Biosciences | South San Francisco, CA | JSearch/LinkedIn |  |
-| 2026-10-12 | [Computational Biologist, Spatial Transcriptomics](https://www.linkedin.com/jobs/view/computational-biologist-spatial-transcriptomics-at-origin-4476864334) | Origin | San Francisco, CA | JSearch/LinkedIn |  |
-| 2026-10-10 | [Lead Computational Biologist: Target Discovery](https://us.trabajo.org/job-972-c01f5065255fa3339d77aab27024a014) | Gordian Biotechnology | South San Francisco, CA | JSearch/Trabajo.org |  |
+| 2026-10-17 | [Director / Sr. Director of Computational Chemistry for Molecule Discovery - ExploR&D](https://www.adzuna.com/land/ad/5932073198?se=jGLhxjfK8RGTjuVkbjlGnw&utm_medium=api&utm_source=d677d981&v=13B436088F59C2F5BB76FABA3930F05624F7C76C) | Eli Lilly | Boston, Suffolk County, Massachusetts | Adzuna |  |
+| 2026-10-15 | [Director / Sr. Director of Computational Chemistry for Molecule Discovery – ExploR&D](https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Boston-MA/Director---Sr-Director-of-Computational-Chemistry-for-Molecule-Discovery---ExploR-D_R-113206-1/apply) | Eli Lilly | Boston, Massachusetts / Louisville, Colorado / Alcobendas, Madrid, Spain / South San Francisco, California / WINDLESHAM, Surrey, United Kingdom / Indianapolis, Indiana | 회사/phenom |  |
 
-## San Diego (6)
+## SF Bay Area (6)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-10-16 | [Director, Computer-Directed Drug Design and AI-Native Molecular Design - San Diego, CA](https://www.adzuna.com/land/ad/5930434634?se=2OpJMXjJ8RGq65mh8wCbFA&utm_medium=api&utm_source=d677d981&v=B17E5D131069DECAE06EC29C6AF19F4056A8D1EC) | Johnson & Johnson | San Diego, San Diego County, California | Adzuna |  |
-| 2026-10-16 | [Director, Computer-Directed Drug Design and AI-Native Molecular Design - San Diego, CA](https://www.adzuna.com/details/5930098303?utm_medium=api&utm_source=d677d981) | Johnson & Johnson | San Diego, San Diego County, California | Adzuna |  |
-| 2026-10-15 | [Scientist III, Bioinformatics (Companion Diagnostics)](https://www.linkedin.com/jobs/view/scientist-iii-bioinformatics-companion-diagnostics-at-thermo-fisher-scientific-4477054144) | Thermo Fisher | Carlsbad, CA | JSearch/LinkedIn |  |
-| 2026-10-15 | [Bioinformatics RA III or Scientist I (AI/ML – Assay Design)](https://bandana.com/jobs/eeb536f1-b867-489c-84ed-1380733ff894) | SGS Consulting | San Diego, CA | JSearch/Bandana.com |  |
-| 2026-10-14 | [Computational Biology MLOps Engineer: AI Infra & HPC](https://www.jobserve.com/us/en/extjob/COMPUTATIONAL-BIOLOGY-MLOPS-ENGINEER-AI-INFRA-HPC-in-San-Diego-California-USA-7CE7F2AE1D16BDBD06/) | Marlabs Inc. | San Diego, CA | JSearch/JobServe |  |
-| 2026-10-14 | [Bioinformatics Scientist - remote Life Science](https://bebee.com/us/jobs/bioinformatics-scientist-remote-life-science-singular-genomics-san-diego-ca--jooble-6483835891645666872--1013cd9d22d8e3b569b44c5d6369ad42) | Singular Genomics | San Diego, CA | JSearch/BeBee |  |
+| 2026-10-17 | [Advisor - Cheminformatics & Computational Chemistry](https://www.adzuna.com/land/ad/5932009456?se=DtiFsjfK8RGShelPZmo4zw&utm_medium=api&utm_source=d677d981&v=14CE4A029D5BD008E1EE63C643699C27649FB403) | Eli Lilly | SoMa, San Francisco, California | Adzuna |  |
+| 2026-10-17 | [Associate Director, Computational Chemistry](https://www.adzuna.com/details/5932144644?utm_medium=api&utm_source=d677d981) | Revolution Medicines | Redwood City, San Mateo County, California | Adzuna |  |
+| 2026-10-17 | [Advisor - Cheminformatics & Computational Chemistry](https://www.adzuna.com/details/5932147345?utm_medium=api&utm_source=d677d981) | Eli Lilly | San Francisco, California | Adzuna |  |
+| 2026-10-17 | [Director / Sr. Director of Computational Chemistry for Molecule Discovery - ExploR&D](https://www.adzuna.com/land/ad/5932009468?se=DtiFsjfK8RGShelPZmo4zw&utm_medium=api&utm_source=d677d981&v=7151286D9C89C7871877CC8B3EF9D6E080718A97) | Eli Lilly | South San Francisco, San Mateo County, California | Adzuna |  |
+| 2026-10-16 | [Scientist, Discovery Cheminformatics](https://www.octant.bio/jobs?gh_jid=6227121004) | Octant Bio | Emeryville, California | 회사/greenhouse |  |
+| 2026-10-15 | [Advisor - Cheminformatics & Computational Chemistry](https://lilly.wd115.myworkdayjobs.com/LLY/job/US-San-Francisco-CA/Advisor---Cheminformatics---Computational-Chemistry_R-113551/apply) | Eli Lilly | San Francisco, California | 회사/phenom |  |
+
+## San Diego (2)
+
+| 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
+|---|---|---|---|---|---|
+| 2026-10-16 | [Director, Computer-Directed Drug Design and AI-Native Molecular Design - San Diego, CA](https://www.adzuna.com/details/5931347348?utm_medium=api&utm_source=d677d981) | Johnson and Johnson | San Diego, San Diego County, California | Adzuna |  |
+| 2026-10-16 | [Director, Generative Design & Optimization, Biotherapeutics](https://lilly.wd115.myworkdayjobs.com/LLY/job/US-San-Diego-CA/Director--Generative-Design---Optimization--Biotherapeutics_R-112529/apply) | Eli Lilly | San Diego, California | 회사/phenom |  |
 
 ## Washington DC (2)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-10-12 | [Senior Scientist, Computational Protein Engineering](https://www.linkedin.com/jobs/view/senior-scientist-computational-protein-engineering-at-meso-scale-diagnostics-llc-4465558100) | MESO SCALE DIAGNOSTICS, LLC. | Rockville, MD | JSearch/LinkedIn |  |
-| 2026-10-09 | [VP, Bioinformatics](https://us.trabajo.org/job-28643-70276aed25a6828c03d7d346834c4663) | X4 Life Sciences | Washington, DC | JSearch/Trabajo.org |  |
+| 2026-10-16 | [Computational Biologist/Cell Simulation with Security Clearance](https://www.adzuna.com/land/ad/5931600732?se=hjicyDfK8RGD3NuKZ_epjg&utm_medium=api&utm_source=d677d981&v=52D2C1DA916C83A77783A8F76AF0F996B8E9E96F) | SPA | State Farm, Arlington County, Virginia | Adzuna | 🔐 클리어런스 |
+| 2026-10-16 | [Bioinformatics Program Manager](https://www.adzuna.com/details/5930452734?utm_medium=api&utm_source=d677d981) | Battelle Memorial Institute | Fort Myer, Arlington County, Virginia | Adzuna |  |
