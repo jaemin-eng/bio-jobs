@@ -1,29 +1,22 @@
-# 새 RF/Antenna/EMC 공고 — 2026-10-25 15:22
+# 새 RF/Antenna/EMC 공고 — 2026-10-26 18:00
 
-총 **11건**
+총 **4건**
 
-## Boston (5)
+## Boston (1)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-10-25 | [Director, Cheminformatics - Modeling & Informatics](https://www.adzuna.com/land/ad/5941414462?se=4MANNIbQ8RGSXIvfObdgVQ&utm_medium=api&utm_source=d677d981&v=19BB9F2F172829BD81B2445CE2E9A3360F13A8F1) | Merck | Boston, Suffolk County, Massachusetts | Adzuna |  |
-| 2026-10-25 | [Director, Cheminformatics - Modeling & Informatics](https://www.adzuna.com/details/5941478723?utm_medium=api&utm_source=d677d981) | Merck | Boston, Suffolk County, Massachusetts | Adzuna |  |
-| 2026-10-25 | [ProFound Therapeutics: Bioinformatics Data Engineering Co-Op](https://www.adzuna.com/details/5941213345?utm_medium=api&utm_source=d677d981) | Flagship Pioneering | Cambridge, Middlesex County, Massachusetts | Adzuna |  |
-| 2026-10-25 | [Senior Research Scientist I, Antibody Engineering and Characterization](https://www.adzuna.com/details/5941258167?utm_medium=api&utm_source=d677d981) | Broad Institute | Cambridge, Middlesex County, Massachusetts | Adzuna |  |
-| 2026-10-25 | [Senior Computational Chemist](https://www.adzuna.com/details/5941209694?utm_medium=api&utm_source=d677d981) | Adiabatic Materials | Somerville, Middlesex County, Massachusetts | Adzuna |  |
+| 2026-10-22 | [Research Scientist, Protein Design & Engineering](https://www.learn4good.com/jobs/cambridge/massachusetts/research_and_development/5557213342/e/) | Dayhoff Labs | Cambridge, MA | JSearch/Learn4Good |  |
 
 ## SF Bay Area (2)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-10-25 | [Senior Scientist II, Computational Biology](https://www.adzuna.com/details/5941470820?utm_medium=api&utm_source=d677d981) | Eikon Therapeutics | Millbrae, San Mateo County, California | Adzuna |  |
-| 2026-10-25 | [Vice President, Global Head of AI for Drug Discovery (AIDD)](https://www.adzuna.com/land/ad/5941332094?se=InaaHobQ8RGSXIvfObdgVQ&utm_medium=api&utm_source=d677d981&v=2E89B59AE3B61490336D69AAFFF05B4BEF02B2BD) | Genentech | South San Francisco, San Mateo County, California | Adzuna |  |
+| 2026-10-26 | [Cryo-EM Specialist](https://www.adzuna.com/land/ad/5942148812?se=RjYOBGbR8RGTmpORxmRtzw&utm_medium=api&utm_source=d677d981&v=26D4EA47BFE5EE7F7F0359F7CED2306B0DAFF948) | SLAC National Accelerator Laboratory | Menlo Park, San Mateo County, California | Adzuna |  |
+| 2026-10-21 | [Foundation and generative models for biomolecules](https://www.linkedin.com/jobs/view/foundation-and-generative-models-for-biomolecules-at-inceptive-4392257115) | Inceptive | Palo Alto, CA | JSearch/LinkedIn |  |
 
-## Washington DC (4)
+## San Diego (1)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-10-25 | [Data Scientist Fellow, Bioinformatics and Image Analysis](https://www.adzuna.com/details/5941322779?utm_medium=api&utm_source=d677d981) | Axle | Bethesda, Montgomery County, Maryland | Adzuna |  |
-| 2026-10-24 | [Technical SETA - AI/Biological SME with Security Clearance](https://www.adzuna.com/land/ad/5940769813?se=usjpPobQ8RGsPvZwKHI5Fg&utm_medium=api&utm_source=d677d981&v=FBF45375E5A7CB0FF06CDC93AFCD9C11C7AE82EC) | SPA | State Farm, Arlington County, Virginia | Adzuna | 🔐 클리어런스 |
-| 2026-10-24 | [Bioinformatics Scientist (CT Imaging)](https://www.adzuna.com/land/ad/5941083911?se=eOsBRobQ8RG0GownEE_3tg&utm_medium=api&utm_source=d677d981&v=FFB06AD4A255AF04803856F9FDD9506CDAB0AC0F) | Kelly | Bethesda, Montgomery County, Maryland | Adzuna |  |
-| 2026-10-24 | [Bioinformatics Scientist (CT Imaging) - NHLBI NIH](https://www.adzuna.com/details/5940237165?utm_medium=api&utm_source=d677d981) | Kelly Services | Bethesda, Montgomery County, Maryland | Adzuna |  |
+| 2026-10-20 | [AVP, De Novo Design Validation & Learning](https://www.jobleads.com/us/job/avp-de-novo-design-validation-learning--san-diego--ef8a91cffce099ad96f4999e1d9e9c016) | Eli Lilly | San Diego, CA | JSearch/JobLeads |  |
