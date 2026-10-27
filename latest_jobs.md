@@ -1,22 +1,20 @@
-# 새 RF/Antenna/EMC 공고 — 2026-10-26 18:00
+# 새 RF/Antenna/EMC 공고 — 2026-10-27 17:11
 
-총 **4건**
+총 **7건**
 
-## Boston (1)
-
-| 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
-|---|---|---|---|---|---|
-| 2026-10-22 | [Research Scientist, Protein Design & Engineering](https://www.learn4good.com/jobs/cambridge/massachusetts/research_and_development/5557213342/e/) | Dayhoff Labs | Cambridge, MA | JSearch/Learn4Good |  |
-
-## SF Bay Area (2)
+## Boston (3)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-10-26 | [Cryo-EM Specialist](https://www.adzuna.com/land/ad/5942148812?se=RjYOBGbR8RGTmpORxmRtzw&utm_medium=api&utm_source=d677d981&v=26D4EA47BFE5EE7F7F0359F7CED2306B0DAFF948) | SLAC National Accelerator Laboratory | Menlo Park, San Mateo County, California | Adzuna |  |
-| 2026-10-21 | [Foundation and generative models for biomolecules](https://www.linkedin.com/jobs/view/foundation-and-generative-models-for-biomolecules-at-inceptive-4392257115) | Inceptive | Palo Alto, CA | JSearch/LinkedIn |  |
+| 2026-10-27 | [Computational Chemist](https://job-boards.greenhouse.io/schrdinger/jobs/8045317003) | Schrodinger | New York; Cambridge, MA; San Diego; Portland | 회사/greenhouse |  |
+| 2026-10-27 | [Senior Computational Chemist, Target Druggability and Structure-Based Design](https://job-boards.greenhouse.io/schrdinger/jobs/8045314003) | Schrodinger | New York; Cambridge, MA; San Diego; Portland | 회사/greenhouse |  |
+| 2026-10-26 | [Director, Protein Engineering, Discovery Portfolio](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Cambridge-Crossing---MA---US/Director--Protein-Engineering--Discovery-Portfolio_R1607781) | Bristol Myers Squibb | Cambridge Crossing - MA - US | 회사/workday |  |
 
-## San Diego (1)
+## SF Bay Area (4)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-10-20 | [AVP, De Novo Design Validation & Learning](https://www.jobleads.com/us/job/avp-de-novo-design-validation-learning--san-diego--ef8a91cffce099ad96f4999e1d9e9c016) | Eli Lilly | San Diego, CA | JSearch/JobLeads |  |
+| 2026-10-27 | [Associate Director of Bioinformatics (Women's Health and Organ Health)](https://www.adzuna.com/details/5943219659?utm_medium=api&utm_source=d677d981) | Natera | San Carlos, San Mateo County, California | Adzuna |  |
+| 2026-10-27 | [Staff Machine Learning and Bioinformatics Scientist (Multi-Cancer Early Detection)](https://www.adzuna.com/details/5943403652?utm_medium=api&utm_source=d677d981) | Natera | San Carlos, San Mateo County, California | Adzuna |  |
+| 2026-10-27 | [Director of Bioinformatics and Machine Learning](https://www.adzuna.com/details/5943204238?utm_medium=api&utm_source=d677d981) | Natera | San Carlos, San Mateo County, California | Adzuna |  |
+| 2026-10-27 | [Research Scientist, Life Sciences (Computational Chemistry)](https://www.adzuna.com/details/5943459190?utm_medium=api&utm_source=d677d981) | Anthropic | San Francisco, California | Adzuna |  |
