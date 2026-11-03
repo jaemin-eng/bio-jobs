@@ -1,18 +1,23 @@
-# 새 RF/Antenna/EMC 공고 — 2026-11-02 21:11
+# 새 RF/Antenna/EMC 공고 — 2026-11-03 18:58
 
 총 **5건**
 
-## Boston (3)
+## Boston (1)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-11-02 | [Computational Scientist II - Scalable Services](https://www.adzuna.com/details/5950643476?utm_medium=api&utm_source=d677d981) | Broad Institute | Burlington, Middlesex County, Massachusetts | Adzuna |  |
-| 2026-11-02 | [Co-op, Agentic and Generative Protein Design](https://job-boards.greenhouse.io/lilasciences/jobs/4462613009) | Lila Sciences | Cambridge, MA USA; San Francisco, CA USA | 회사/greenhouse |  |
-| 2026-11-01 | [Postdoctoral Research Fellow, Protein Design](https://www.adzuna.com/details/5949271289?utm_medium=api&utm_source=d677d981) | Visterra | Waltham, Middlesex County, Massachusetts | Adzuna |  |
+| 2026-10-27 | [Principal Scientist, AI Protein Design (Boston)](https://ai-search.io/job-board/ampersand-biomedicines-principal-scientist-ai-protein-design-boston-20250902) | Ampersand Biomedicines | Boston, MA | JSearch/Ai-Search.io |  |
 
 ## SF Bay Area (2)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-11-01 | [Bioinformatician, Viral Genomics & Diagnostics](https://www.adzuna.com/details/5949225298?utm_medium=api&utm_source=d677d981) | Primary.Health | San Francisco, California | Adzuna |  |
-| 2026-11-01 | [Senior Scientist, Antibody Engineering](https://www.adzuna.com/land/ad/5949176593?se=OIEmGQDX8RGfjaEYrywE8Q&utm_medium=api&utm_source=d677d981&v=EA8B619275261C36BD4089A9DB330611F082EAF4) | Astellas Pharma | South San Francisco, San Mateo County, California | Adzuna |  |
+| 2026-11-02 | [Computational Scientist](https://www.adzuna.com/land/ad/5951292856?se=LsoAt7bX8RGT9NV5Q-REgg&utm_medium=api&utm_source=d677d981&v=AD9E8B01AE6451D6CD0D810B4EE7B67D82E34517) | Motion Recruitment Partners, LLC | South San Francisco, San Mateo County, California | Adzuna |  |
+| 2026-11-02 | [Computational Scientist - Regev Lab, gRED (Contract role)](https://www.adzuna.com/details/5951145630?utm_medium=api&utm_source=d677d981) | IT Engagements | South San Francisco, San Mateo County, California | Adzuna |  |
+
+## San Diego (2)
+
+| 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
+|---|---|---|---|---|---|
+| 2026-11-02 | [Director, Generative Design & Optimization, Biotherapeutics](https://www.adzuna.com/details/5950645516?utm_medium=api&utm_source=d677d981) | Eli Lilly | San Diego, San Diego County, California | Adzuna |  |
+| 2026-10-31 | [AI-Driven Protein Engineer Biologics Design & Partners](https://www.learn4good.com/jobs/san-diego/california/software_development/5576426916/e/) | Openkrill | San Diego, CA | JSearch/Learn4Good |  |
