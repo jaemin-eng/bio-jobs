@@ -1,23 +1,29 @@
-# 새 RF/Antenna/EMC 공고 — 2026-11-03 18:58
+# 새 RF/Antenna/EMC 공고 — 2026-11-04 19:11
 
-총 **5건**
+총 **6건**
 
-## Boston (1)
+## Boston (2)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-10-27 | [Principal Scientist, AI Protein Design (Boston)](https://ai-search.io/job-board/ampersand-biomedicines-principal-scientist-ai-protein-design-boston-20250902) | Ampersand Biomedicines | Boston, MA | JSearch/Ai-Search.io |  |
+| 2026-11-04 | [Scientist I, Computational Biology](https://www.adzuna.com/details/5952703175?utm_medium=api&utm_source=d677d981) | CRISPR Therapeutics | South Boston, Suffolk County, Massachusetts | Adzuna |  |
+| 2026-11-04 | [Scientist / Senior Scientist, Computational Biology](https://www.adzuna.com/details/5952784597?utm_medium=api&utm_source=d677d981) | Precede | Boston, Suffolk County, Massachusetts | Adzuna |  |
 
 ## SF Bay Area (2)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-11-02 | [Computational Scientist](https://www.adzuna.com/land/ad/5951292856?se=LsoAt7bX8RGT9NV5Q-REgg&utm_medium=api&utm_source=d677d981&v=AD9E8B01AE6451D6CD0D810B4EE7B67D82E34517) | Motion Recruitment Partners, LLC | South San Francisco, San Mateo County, California | Adzuna |  |
-| 2026-11-02 | [Computational Scientist - Regev Lab, gRED (Contract role)](https://www.adzuna.com/details/5951145630?utm_medium=api&utm_source=d677d981) | IT Engagements | South San Francisco, San Mateo County, California | Adzuna |  |
+| 2026-11-04 | [Computational Scientist](https://www.adzuna.com/land/ad/5952919288?se=-LfRsoHY8RG908O6iWXBeQ&utm_medium=api&utm_source=d677d981&v=753B2BB3C0A9108E3AC692283787F807FEE959F6) | Kelly Services | South San Francisco, San Mateo County, California | Adzuna |  |
+| 2026-11-04 | [Senior Director, Head of Structural Biology](https://www.adzuna.com/details/5952856701?utm_medium=api&utm_source=d677d981) | Revolution Medicines | Redwood City, San Mateo County, California | Adzuna |  |
 
-## San Diego (2)
+## San Diego (1)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-11-02 | [Director, Generative Design & Optimization, Biotherapeutics](https://www.adzuna.com/details/5950645516?utm_medium=api&utm_source=d677d981) | Eli Lilly | San Diego, San Diego County, California | Adzuna |  |
-| 2026-10-31 | [AI-Driven Protein Engineer Biologics Design & Partners](https://www.learn4good.com/jobs/san-diego/california/software_development/5576426916/e/) | Openkrill | San Diego, CA | JSearch/Learn4Good |  |
+| 2026-11-04 | [Sr. Bioinformatics Scientist, MRD](https://www.adzuna.com/land/ad/5952920266?se=8K33vIHY8RGC6fwCFn8E0A&utm_medium=api&utm_source=d677d981&v=1258AEFA0E3C16FBB24F8CA4AE29DEEC79C4FD2F) | Abbott | La Jolla, San Diego County, California | Adzuna |  |
+
+## Washington DC (1)
+
+| 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
+|---|---|---|---|---|---|
+| 2026-11-04 | [Bioinformatics/Data Scientist](https://www.adzuna.com/details/5952785784?utm_medium=api&utm_source=d677d981) | Axle | Frederick, Frederick County, Maryland | Adzuna |  |
