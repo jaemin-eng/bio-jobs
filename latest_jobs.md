@@ -1,37 +1,40 @@
-# 새 RF/Antenna/EMC 공고 — 2026-11-11 19:12
+# 새 RF/Antenna/EMC 공고 — 2026-11-12 19:28
 
-총 **14건**
+총 **17건**
 
-## Boston (3)
+## Boston (6)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-11-11 | [Senior Scientist, Computational Chemistry](https://www.adzuna.com/details/5961116323?utm_medium=api&utm_source=d677d981) | Magnet Biomedicine | Boston, Suffolk County, Massachusetts | Adzuna |  |
-| 2026-11-08 | [Senior ML Engineer for Drug Discovery Platform (Equity)](https://www.jobleads.com/us/job/senior-ml-engineer-for-drug-discovery-platform-equity--boston--e8908f6b0c7fb5c1db4c11305d939561e) | Talener | Boston, MA | JSearch/JobLeads |  |
-| 2026-11-08 | [Postdoctoral Fellow in Cancer Immunotherapy and Antibody Engineering – Weiskopf Lab](https://www.adzuna.com/details/5957926396?utm_medium=api&utm_source=d677d981) | Beth Israel Lahey Health | Boston, Suffolk County, Massachusetts | Adzuna |  |
+| 2026-11-12 | [Life Sciences (Computational Biology and Bioinformatics) - AI Trainer](https://www.adzuna.com/land/ad/5963474360?se=qhYqjs3e8RGtfI4ANTZ8vw&utm_medium=api&utm_source=d677d981&v=200A25FA856379C76F5384098412047F80B64A4B) | DataAnnotation | Somerville, Middlesex County, Massachusetts | Adzuna |  |
+| 2026-11-12 | [Scientist, Computational Biology](https://www.adzuna.com/details/5963051427?utm_medium=api&utm_source=d677d981) | Visterra | Waltham, Middlesex County, Massachusetts | Adzuna |  |
+| 2026-11-12 | [Scientist II, Gene Editing, Protein Engineer](https://www.adzuna.com/details/5963045612?utm_medium=api&utm_source=d677d981) | ElevateBio | Waltham, Middlesex County, Massachusetts | Adzuna |  |
+| 2026-11-11 | [Life Sciences (Drug Discovery) - AI Trainer](https://www.adzuna.com/land/ad/5962236544?se=qhYqjs3e8RGtfI4ANTZ8vw&utm_medium=api&utm_source=d677d981&v=7589F91EF12F0A48E20289B4E06CB56495A8512F) | DataAnnotation | Watertown, Middlesex County, Massachusetts | Adzuna |  |
+| 2026-11-11 | [Computational Biologist - Dr. Yana Pikman Lab](https://www.adzuna.com/details/5962458295?utm_medium=api&utm_source=d677d981) | Dana-Farber Cancer Institute | Boston, Suffolk County, Massachusetts | Adzuna |  |
+| 2026-11-10 | [Student Technical Assistant, Computational Scientist/Engineer (Supercomputing Center - Group 05-99)](https://www.adzuna.com/details/5960808693?utm_medium=api&utm_source=d677d981) | MIT | Lexington, Middlesex County, Massachusetts | Adzuna |  |
 
 ## SF Bay Area (5)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-11-11 | [Scientist II, Antibody Engineering and Characterization](https://www.adzuna.com/details/5961365574?utm_medium=api&utm_source=d677d981) | Nautilus Biotechnology | San Carlos, San Mateo County, California | Adzuna |  |
-| 2026-11-11 | [Protein Engineer](https://www.adzuna.com/details/5961245349?utm_medium=api&utm_source=d677d981) | Edison Scientific | San Francisco, California | Adzuna |  |
-| 2026-11-11 | [Senior Computational Biologist](https://www.adzuna.com/details/5961220566?utm_medium=api&utm_source=d677d981) | Probably Genetic | San Francisco, California | Adzuna |  |
-| 2026-11-11 | [Computational Chemist](https://www.adzuna.com/details/5961300193?utm_medium=api&utm_source=d677d981) | Edison Scientific | San Francisco, California | Adzuna |  |
-| 2026-11-09 | [Senior Scientist, AI-Enabled De Novo Antibody Discovery, Protein Therapeutics](https://www.linkedin.com/jobs/view/senior-scientist-ai-enabled-de-novo-antibody-discovery-protein-therapeutics-at-gilead-sciences-4487966760?refId=syOy0o2jkBmcUxqn5F26EQ%3D%3D&trackingId=h9I02UA0pR%2FhBvtgrgZpfQ%3D%3D) | Gilead Sciences | San Francisco, CA | JSearch/LinkedIn |  |
+| 2026-11-12 | [Life Sciences (Computational Biology and Bioinformatics) - AI Trainer](https://www.adzuna.com/land/ad/5962930119?se=Ntgjec3e8RGgDrQN4m_CPg&utm_medium=api&utm_source=d677d981&v=EA73E226DB9184DDF8A9090633D0FA4F2BD756A3) | DataAnnotation | Menlo Park, San Mateo County, California | Adzuna |  |
+| 2026-11-12 | [AI Biologist - Aging & Longevity](https://www.adzuna.com/details/5963265536?utm_medium=api&utm_source=d677d981) | LatchBio | San Francisco, California | Adzuna |  |
+| 2026-11-12 | [Staff Scientist, Machine Learning (Genomics)](https://www.adzuna.com/details/5963176591?utm_medium=api&utm_source=d677d981) | Natera | San Carlos, San Mateo County, California | Adzuna |  |
+| 2026-11-11 | [Life Sciences (Drug Discovery) - AI Trainer](https://www.adzuna.com/land/ad/5962236922?se=Ntgjec3e8RGgDrQN4m_CPg&utm_medium=api&utm_source=d677d981&v=3F889FE8EBDB10C72C1874E1CBBB4FBA62C413FB) | DataAnnotation | South San Francisco, San Mateo County, California | Adzuna |  |
+| 2026-11-11 | [Machine Learning Scientist I - Generative & Agentic AI for Drug Discovery](https://www.adzuna.com/details/5962127373?utm_medium=api&utm_source=d677d981) | Frontier Medicines | South San Francisco, San Mateo County, California | Adzuna |  |
 
-## San Diego (5)
-
-| 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
-|---|---|---|---|---|---|
-| 2026-11-05 | [ML Scientist, Physics‑Aware Drug Design](https://www.learn4good.com/jobs/chula-vista/california/info_technology/5599751354/e/) | Nosis Bio | Chula Vista, CA | JSearch/Learn4Good |  |
-| 2026-11-04 | [Senior AI Scientist for Drug Discovery & ML Collaboration](https://www.jobleads.com/us/job/senior-ai-scientist-for-drug-discovery-ml-collaboration--san-diego--eba8b9a512dce4b0ba64109bc8374901b) | Iambic Therapeutics | San Diego, CA | JSearch/JobLeads |  |
-| 2026-11-04 | [Machine Learning Engineer - Drug Discovery; Part-time](https://www.learn4good.com/jobs/san-diego/california/software_development/5562251256/e/) | Astrix | San Diego, CA | JSearch/Learn4Good |  |
-| 2026-11-04 | [Principal Scientist, AI-Driven Biologics Discovery](https://www.jobleads.com/us/job/principal-scientist-ai-driven-biologics-discovery--san-diego--ed4a23bdb3f28041578be9b7ecd025150) | Johnson & Johnson | San Diego, CA | JSearch/JobLeads |  |
-| 2026-11-04 | [Senior ML Research Engineer: AI Drug Discovery](https://www.learn4good.com/jobs/san-diego/california/software_development/5570091582/e/) | Aimlroles | San Diego, CA | JSearch/Learn4Good |  |
-
-## Washington DC (1)
+## San Diego (3)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-11-10 | [Data Scientist Development Program (DSDP) - Entry to Expert Level](https://www.usajobs.gov:443/job/892502700) | National Security Agency/Central Security Service | Fort Meade, Maryland | USAJOBS | 🇺🇸 연방정부 |
+| 2026-11-12 | [Senior Scientist / Principal Scientist, Clinical Computational Biology](https://www.adzuna.com/details/5963223339?utm_medium=api&utm_source=d677d981) | Vividion Therapeutics | La Jolla, San Diego County, California | Adzuna |  |
+| 2026-11-12 | [Postdoctoral Associate - Yang Lab - Integrative Structural & Computational Biology](https://www.adzuna.com/details/5962896820?utm_medium=api&utm_source=d677d981) | Scripps Research | San Diego, San Diego County, California | Adzuna |  |
+| 2026-11-12 | [Life Sciences (Drug Discovery) - AI Trainer](https://www.adzuna.com/land/ad/5963477806?se=mn7hg83e8RGeRcETzs7BxQ&utm_medium=api&utm_source=d677d981&v=FC0BE947078D7CD71C6BCBDD8CF0B900D74EF49A) | DataAnnotation | Oceanside, San Diego County, California | Adzuna |  |
+
+## Washington DC (3)
+
+| 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
+|---|---|---|---|---|---|
+| 2026-11-12 | [Life Sciences (Computational Biology and Bioinformatics) - AI Trainer](https://www.adzuna.com/land/ad/5962921788?se=BBqfmM3e8RG0NsbUZx0nZA&utm_medium=api&utm_source=d677d981&v=F5C4FF7CCF2C27A8D01E3794D8E8C7800E64ACA1) | DataAnnotation | Frederick, Frederick County, Maryland | Adzuna |  |
+| 2026-11-12 | [Computational Chemistry Benchmark Engineer - AI Trainer](https://www.adzuna.com/land/ad/5963460832?se=HmI0oc3e8RGgDrQN4m_CPg&utm_medium=api&utm_source=d677d981&v=56425CCC4E56452B58DC7916D5BE1E124A94173A) | DataAnnotation | College Park, Prince George's County, Maryland | Adzuna |  |
+| 2026-11-12 | [Interdisciplinary](https://www.usajobs.gov:443/job/892609400) | Defense Human Resources Activity | Alexandria, Virginia | USAJOBS | 🇺🇸 연방정부 |
