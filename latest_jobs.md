@@ -1,27 +1,26 @@
-# 새 RF/Antenna/EMC 공고 — 2026-11-19 19:54
+# 새 RF/Antenna/EMC 공고 — 2026-11-20 19:33
 
-총 **9건**
+총 **8건**
 
-## Boston (4)
-
-| 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
-|---|---|---|---|---|---|
-| 2026-11-16 | [Computational Protein Designer](https://www.linkedin.com/jobs/view/computational-protein-designer-at-hunter-recruiting-4490144474) | Hunter Recruiting | Boston, MA | JSearch/LinkedIn |  |
-| 2026-11-16 | [Biologics AI & Protein Design Co-op Cambridge](https://www.learn4good.com/jobs/cambridge/massachusetts/software_development/5642618020/e/) | Sanofi | Cambridge, MA | JSearch/Learn4Good |  |
-| 2026-11-12 | [Lead AI Protein Design Engineer](https://www.jobleads.com/us/job/lead-ai-protein-design-engineer--boston--edacc4256892525ca4d6bf6af22369fc0) | Stealth BioTech Startup | Boston, MA | JSearch/JobLeads |  |
-| 2026-11-12 | [Protein Design & Structural Biology Co-op](https://www.learn4good.com/jobs/cambridge/massachusetts/research_and_development/5625560769/e/) | Moderna | Cambridge, MA | JSearch/Learn4Good |  |
-
-## SF Bay Area (4)
+## Boston (5)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-11-19 | [Senior Machine Learning Engineer, Small Molecule Drug Discovery, AI for Drug Discovery](https://www.adzuna.com/details/5971375916?utm_medium=api&utm_source=d677d981) | Genentech | South San Francisco, San Mateo County, California | Adzuna |  |
-| 2026-11-18 | [Computational Biology - AI/ML Scientist](https://www.adzuna.com/details/5971030485?utm_medium=api&utm_source=d677d981) | Gandiva Insights | Emerald Hills, San Mateo County, California | Adzuna |  |
-| 2026-11-18 | [Senior Scientist/ Principal Scientist - Antibody Discovery & Protein Engineering](https://www.adzuna.com/details/5970970802?utm_medium=api&utm_source=d677d981) | Surrozen | South San Francisco, San Mateo County, California | Adzuna |  |
-| 2026-11-17 | [Senior Principal Scientist, Large Molecule ML Translation, AI for Drug Discovery (AIDD)](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Principal-Scientist--Portfolio---gRED-Interface-Biologics--AI-for-Drug-Discovery--AIDD-_202608-120345/apply) | Genentech | South San Francisco, California | 회사/phenom |  |
+| 2026-11-20 | [Computational Scientist I - Neale/Macosko Labs, Stanley Center for Psychiatric Research](https://www.adzuna.com/details/5972702024?utm_medium=api&utm_source=d677d981) | Broad Institute | Cambridge, Middlesex County, Massachusetts | Adzuna |  |
+| 2026-11-20 | [Research Associate II, Protein Engineering](https://www.adzuna.com/details/5972652069?utm_medium=api&utm_source=d677d981) | Repertoire Immune Medicines | Watertown, Middlesex County, Massachusetts | Adzuna |  |
+| 2026-11-20 | [Scientist, Structural Biology / Biochemistry](https://www.adzuna.com/details/5972790924?utm_medium=api&utm_source=d677d981) | Flagship Pioneering | Cambridge, Middlesex County, Massachusetts | Adzuna |  |
+| 2026-11-20 | [Head of Antibody Discovery & Characterization](https://www.adzuna.com/land/ad/5972945044?se=lJtYCRjl8RG5w56ygLr02g&utm_medium=api&utm_source=d677d981&v=4ACCE5DDAC73AB5C73BE255A210D7DFAB56DA6F7) | Sanofi | South Waltham, Middlesex County, Massachusetts | Adzuna |  |
+| 2026-11-20 | [Head of Antibody Discovery & Characterization](https://www.adzuna.com/details/5972519625?utm_medium=api&utm_source=d677d981) | Sanofi | Waltham, Middlesex County, Massachusetts | Adzuna |  |
+
+## SF Bay Area (2)
+
+| 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
+|---|---|---|---|---|---|
+| 2026-11-19 | [AI/ML Scientist, Computational Biologist](https://www.adzuna.com/details/5972377685?utm_medium=api&utm_source=d677d981) | Starcom consulting limited | Redwood City, San Mateo County, California | Adzuna |  |
+| 2026-11-19 | [Research Associate II, Protein Engineering](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5302739007) | Xaira Therapeutics | South San Francisco, California | 회사/greenhouse |  |
 
 ## San Diego (1)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-11-14 | [Computational Protein Engineer](https://www.learn4good.com/jobs/san-diego/california/business/5637059120/e/) | OpenProtein.AI | San Diego, CA | JSearch/Learn4Good |  |
+| 2026-11-20 | [Senior Principal Scientist, Computational Chemistry](https://www.adzuna.com/details/5972563929?utm_medium=api&utm_source=d677d981) | Pfizer | San Diego, San Diego County, California | Adzuna |  |
