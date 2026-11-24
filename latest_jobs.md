@@ -1,17 +1,15 @@
-# 새 RF/Antenna/EMC 공고 — 2026-11-23 23:13
+# 새 RF/Antenna/EMC 공고 — 2026-11-24 21:51
 
-총 **4건**
+총 **2건**
 
-## Boston (3)
+## Boston (1)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-11-22 | [Senior Data Scientist, Computational Biology/Cancer Genomics, AI/ML](https://jobs.merck.com/us/en/job/R428343/Senior-Data-Scientist-Computational-Biology-Cancer-Genomics-AI-ML) | Merck | Boston, MA | JSearch/Merck Careers |  |
-| 2026-11-16 | [Senior Scientist I - AI-Enabled Drug Discovery Equity](https://jooble.org/jdp/-798245022078638299) | Antares Therapeutics | Boston, MA | JSearch/Jooble |  |
-| 2026-11-16 | [Machine Learning Scientist, Protein Design](https://www.learn4good.com/jobs/cambridge/massachusetts/research_and_development/5644950995/e/) | Lila Sciences | Cambridge, MA | JSearch/Learn4Good |  |
+| 2026-11-24 | [Senior Infrastructure Engineer, Bioinformatics](https://www.adzuna.com/details/5977275101?utm_medium=api&utm_source=d677d981) | Repertoire Immune Medicines | Watertown, Middlesex County, Massachusetts | Adzuna |  |
 
 ## San Diego (1)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-11-22 | [Principal Scientist / Sr. Principal Scientist - Cryo-EM](https://www.adzuna.com/land/ad/5975018555?se=CHE39pHn8RGBUuiRoBjMvg&utm_medium=api&utm_source=d677d981&v=C709F12E00F14759C3E0948062522B4CB6D38F88) | Eli Lilly | San Diego, San Diego County, California | Adzuna |  |
+| 2026-11-24 | [Life Sciences (Computational Biology and Bioinformatics) - AI Trainer](https://www.adzuna.com/land/ad/5977310877?se=kOdxfE_o8RGLYqZYfSmpUQ&utm_medium=api&utm_source=d677d981&v=608BD9F960631A8C921726985C2939E47F287C87) | DataAnnotation | Solana Beach, San Diego County, California | Adzuna |  |
