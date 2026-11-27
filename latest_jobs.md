@@ -1,19 +1,31 @@
-# 새 RF/Antenna/EMC 공고 — 2026-11-26 20:51
+# 새 RF/Antenna/EMC 공고 — 2026-11-27 20:38
 
-총 **6건**
+총 **8건**
 
-## SF Bay Area (5)
-
-| 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
-|---|---|---|---|---|---|
-| 2026-11-26 | [Bioinformatics - Scientist](https://www.adzuna.com/details/5979469434?utm_medium=api&utm_source=d677d981) | Genentech | South San Francisco, San Mateo County, California | Adzuna |  |
-| 2026-11-26 | [Bioinformatics Scientist (Oncology Product Development)](https://www.adzuna.com/details/5979804674?utm_medium=api&utm_source=d677d981) | Natera | San Carlos, San Mateo County, California | Adzuna |  |
-| 2026-11-26 | [Associate Director of Bioinformatics (Oncology Algorithms)](https://www.adzuna.com/details/5979713976?utm_medium=api&utm_source=d677d981) | Natera | San Carlos, San Mateo County, California | Adzuna |  |
-| 2026-11-26 | [Senior Bioinformatics Scientist (Oncology Product Development)](https://www.adzuna.com/details/5979300831?utm_medium=api&utm_source=d677d981) | Natera | San Carlos, San Mateo County, California | Adzuna |  |
-| 2026-11-26 | [Senior Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery](https://www.adzuna.com/land/ad/5979597795?se=bgkIxNnp8RGSgvTnNGszzQ&utm_medium=api&utm_source=d677d981&v=658FAFBFCD50B2767D835F0E9A0D7F40B24304C2) | Genentech | South San Francisco, San Mateo County, California | Adzuna |  |
-
-## Washington DC (1)
+## Boston (4)
 
 | 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
 |---|---|---|---|---|---|
-| 2026-11-26 | [Bioinformatics Analyst](https://www.adzuna.com/land/ad/5979681354?se=TAYKiNnp8RG_-5ugYQfc3w&utm_medium=api&utm_source=d677d981&v=DE540B1D540F91C5F5CC0E553028852524F50AAB) | Leidos | College Estates, Frederick County, Maryland | Adzuna |  |
+| 2026-11-27 | [Computational Scientist II - Iqbal Lab](https://www.adzuna.com/details/5980808469?utm_medium=api&utm_source=d677d981) | Broad Institute | Cambridge, Middlesex County, Massachusetts | Adzuna |  |
+| 2026-11-21 | [Computational Protein Engineer](https://simplify.jobs/p/8610dada-3567-47fc-9ee2-47d9f941babe/Protein-Engineer) | Edison Scientific | Boston, MA   (+2 others) | JSearch/Simplify |  |
+| 2026-11-21 | [Senior Research Scientist, Tissue Imaging & Protein Design](https://www.learn4good.com/jobs/cambridge/massachusetts/research_and_development/5658473588/e/) | MIT | Cambridge, MA | JSearch/Learn4Good |  |
+| 2026-11-20 | [Senior Scientist, Oligonucleotide Delivery & Protein Discovery](https://jooble.org/jdp/-5416823124735079040) | Raven | Boston, MA | JSearch/Jooble |  |
+
+## SF Bay Area (1)
+
+| 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
+|---|---|---|---|---|---|
+| 2026-11-23 | [Scientist, Protein Engineering Throughput Screening](https://www.learn4good.com/jobs/emeryville/california/research_and_development/5663460465/e/) | DutchTechX | Emeryville, CA | JSearch/Learn4Good |  |
+
+## San Diego (1)
+
+| 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
+|---|---|---|---|---|---|
+| 2026-11-21 | [Senior Therapeutic Protein Engineer — Lead & Innovate, Stock Options](https://jooble.org/jdp/2789552785110898398) | Avalon BioVentures, Inc. | San Diego, CA | JSearch/Jooble |  |
+
+## Washington DC (2)
+
+| 게시일 | 직무 | 회사 | 위치 | 출처 | 비고 |
+|---|---|---|---|---|---|
+| 2026-11-27 | [Product Manager, Bioinformatics and Data Analysis Software](https://www.adzuna.com/details/5980534905?utm_medium=api&utm_source=d677d981) | Merck | Rockville, Montgomery County, Maryland | Adzuna |  |
+| 2026-11-27 | [Bioinformatics Scientist (53490)](https://www.adzuna.com/details/5980581750?utm_medium=api&utm_source=d677d981) | Gap Solutions | Bethesda, Montgomery County, Maryland | Adzuna |  |
